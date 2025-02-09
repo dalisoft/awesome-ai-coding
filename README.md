@@ -24,12 +24,12 @@ List of AI-powered IDEs and code editors.
 | ---------------------------------------- | ------------------------------------------------------- | ------ | --------- | ----------- |
 | [Trae AI](https://trae.ai)               | Free during beta                                        | -      | Yes       | No          |
 | [Zed](https://zed.dev)                   | User API key (Token usage)                              | -      | -         | Yes         |
+| [FlexPilot AI](https://flexpilot.ai)     | User API key (Token usage)                              | -      | ?         | Yes         |
 | [VoidEditor](https://voideditor.com)     | Unknown (waitlist)                                      | -      | ?         | Yes?        |
 | [PearAI](https://trypear.ai)             | [Junior Engineer](https://trypear.ai/pricing) (15 \$/m) | No     | Yes       | Yes         |
 | [Windsurf](https://codeium.com/windsurf) | [Pro](https://codeium.com/pricing) (15 \$/m)            | No     | Yes       | No          |
 | [Cursor](https://www.cursor.com)         | [Pro](https://www.cursor.com/pricing) (20 \$/m)         | 2-week | Yes       | No          |
 | [Aide AI](https://aide.dev)              | [Creator](https://aide.dev/pricing) (20 \$/m)           | No     | Yes       | Yes         |
-| [FlexPilot AI](https://flexpilot.ai)     | User API key (Token usage)                              | -      | ?         | Yes         |
 
 ---
 
@@ -45,8 +45,8 @@ List of AI-powered coding plugins and extensions.
 | [TabNine](https://www.tabnine.com)                    | [Dev](https://www.tabnine.com/pricing) (9 \$/m)                      | 30-day | Yes       | No          |
 | [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m)           | 30-day | Yes       | No          |
 | [Codeium](https://codeium.com)                        | [Pro](https://codeium.com/pricing) (15 \$/m)                         | No     | Yes       | No          |
+| [Sourcegraph Cody](https://sourcegraph.com/cody)      | [Enterprise Starter](https://sourcegraph.com/cody/pricing) (19 \$/m) | No     | Yes       | No          |
 | [Double.bot AI](https://double.bot)                   | [Pro](https://docs.double.bot/pricing) (20 \$/m)                     | No     | Yes       | No          |
-| [Sourcegraph Cody](https://sourcegraph.com/cody)      | [Etnerprise Starter](https://sourcegraph.com/cody/pricing) (19 \$/m) | No     | Yes       | No          |
 
 ---
 
