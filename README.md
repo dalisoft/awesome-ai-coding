@@ -29,7 +29,7 @@ List of AI-powered IDEs and code editors.
 | [PearAI](https://trypear.ai)             | [Junior Engineer](https://trypear.ai/pricing) (15 \$/m) | No     | Yes       | Yes         |
 | [Windsurf](https://codeium.com/windsurf) | [Pro](https://codeium.com/pricing) (15 \$/m)            | No     | Yes       | No          |
 | [Cursor](https://www.cursor.com)         | [Pro](https://www.cursor.com/pricing) (20 \$/m)         | 2-week | Yes       | No          |
-| [Aide AI](https://aide.dev)              | [Creator](https://aide.dev/pricing) (20 \$/m)           | No     | Yes       | Yes         |
+| [Aide](https://aide.dev)                 | [Creator](https://aide.dev/pricing) (20 \$/m)           | No     | Yes       | Yes         |
 
 ---
 
@@ -46,7 +46,7 @@ List of AI-powered coding plugins and extensions.
 | [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m)           | 30-day | Yes       | No          |
 | [Codeium](https://codeium.com)                        | [Pro](https://codeium.com/pricing) (15 \$/m)                         | No     | Yes       | No          |
 | [Sourcegraph Cody](https://sourcegraph.com/cody)      | [Enterprise Starter](https://sourcegraph.com/cody/pricing) (19 \$/m) | No     | Yes       | No          |
-| [Double.bot AI](https://double.bot)                   | [Pro](https://docs.double.bot/pricing) (20 \$/m)                     | No     | Yes       | No          |
+| [Double](https://double.bot)                          | [Pro](https://docs.double.bot/pricing) (20 \$/m)                     | No     | Yes       | No          |
 
 ---
 
@@ -60,7 +60,7 @@ List of AI-powered cloud-based developer tools.
 | [Project IDX](https://idx.dev)     | Free during beta                                  | No    | Yes       | No          |
 | [Bolt.diy](https://bolt.diy)       | User API key (Token usage)                        | No    | No        | No          |
 | [Durable](https://durable.co)      | [Starter](https://durable.co/pricing) (15 \$/m)   | No    | No        | No          |
-| [v0.dev](https://v0.dev)           | [Premium](https://v0.dev/pricing) (20 \$/m)       | No    | Yes       | No          |
+| [v0](https://v0.dev)               | [Premium](https://v0.dev/pricing) (20 \$/m)       | No    | Yes       | No          |
 | [Lovable](https://lovable.dev)     | [STARTER](https://lovable.dev) (20 \$/m)          | No    | Yes       | No          |
 | [Bolt.new](https://bolt.new)       | [Pro](https://bolt.new) (20 \$/m)                 | No    | Yes?      | No          |
 | [Builder](https://builder.io)      | [Pro](https://www.builder.io/m/pricing) (24 \$/m) | No    | Yes       | No          |
