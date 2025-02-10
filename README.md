@@ -23,6 +23,7 @@ List of AI-powered IDEs and code editors.
 | Name                                     | Minimal plan                                            | Trial  | Free plan | Open Source |
 | ---------------------------------------- | ------------------------------------------------------- | ------ | --------- | ----------- |
 | [Trae AI](https://trae.ai)               | Free during beta                                        | -      | Yes       | No          |
+| [MarsCode](https://www.marscode.com)     | Free during beta?                                       | -      | Yes       | No          |
 | [Zed](https://zed.dev)                   | User API key (Token usage)                              | -      | -         | Yes         |
 | [FlexPilot AI](https://flexpilot.ai)     | User API key (Token usage)                              | -      | ?         | Yes         |
 | [VoidEditor](https://voideditor.com)     | Unknown (waitlist)                                      | -      | ?         | Yes?        |
@@ -54,16 +55,19 @@ List of AI-powered coding plugins and extensions.
 
 List of AI-powered cloud-based developer tools.
 
-| Name                               | Minimal plan                                      | Trial | Free plan | Open Source |
-| ---------------------------------- | ------------------------------------------------- | ----- | --------- | ----------- |
-| [Blackbox AI](https://blackbox.ai) | Free during beta                                  | No    | Yes       | No          |
-| [Project IDX](https://idx.dev)     | Free during beta                                  | No    | Yes       | No          |
-| [Bolt.diy](https://bolt.diy)       | User API key (Token usage)                        | No    | No        | No          |
-| [Durable](https://durable.co)      | [Starter](https://durable.co/pricing) (15 \$/m)   | No    | No        | No          |
-| [v0](https://v0.dev)               | [Premium](https://v0.dev/pricing) (20 \$/m)       | No    | Yes       | No          |
-| [Lovable](https://lovable.dev)     | [STARTER](https://lovable.dev) (20 \$/m)          | No    | Yes       | No          |
-| [Bolt.new](https://bolt.new)       | [Pro](https://bolt.new) (20 \$/m)                 | No    | Yes?      | No          |
-| [Builder](https://builder.io)      | [Pro](https://www.builder.io/m/pricing) (24 \$/m) | No    | Yes       | No          |
+| Name                                           | Minimal plan                                      | Trial  | Free plan | Open Source |
+| ---------------------------------------------- | ------------------------------------------------- | ------ | --------- | ----------- |
+| [Blackbox AI](https://blackbox.ai)             | Free during beta                                  | No     | Yes       | No          |
+| [Project IDX](https://idx.dev)                 | Free during beta                                  | No     | Yes       | No          |
+| [Webcrumbs](https://www.webcrumbs.org)         | Free?                                             | -      | Yes       | Yes         |
+| [Dewhale](https://github.com/Yuyz0112/dewhale) | -                                                 | -      | Yes       | Yes         |
+| [Bolt.diy](https://bolt.diy)                   | User API key (Token usage)                        | No     | No        | No          |
+| [Durable](https://durable.co)                  | [Starter](https://durable.co/pricing) (15 \$/m)   | No     | No        | No          |
+| [CodeParrot](https://codeparrot.ai)            | [Pro](https://codeparrot.ai/pricing) (19 \$/m)    | 2-week | No        | No          |
+| [v0](https://v0.dev)                           | [Premium](https://v0.dev/pricing) (20 \$/m)       | No     | Yes       | No          |
+| [Lovable](https://lovable.dev)                 | [STARTER](https://lovable.dev) (20 \$/m)          | No     | Yes       | No          |
+| [Bolt.new](https://bolt.new)                   | [Pro](https://bolt.new) (20 \$/m)                 | No     | Yes?      | No          |
+| [Builder](https://builder.io)                  | [Pro](https://www.builder.io/m/pricing) (24 \$/m) | No     | Yes       | No          |
 
 ---
 
