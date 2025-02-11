@@ -68,6 +68,7 @@ List of AI-powered cloud-based developer tools.
 | [Lovable](https://lovable.dev)                 | [STARTER](https://lovable.dev) (20 \$/m)          | No     | Yes       | No          |
 | [Bolt.new](https://bolt.new)                   | [Pro](https://bolt.new) (20 \$/m)                 | No     | Yes?      | No          |
 | [Builder](https://builder.io)                  | [Pro](https://www.builder.io/m/pricing) (24 \$/m) | No     | Yes       | No          |
+| [Co](https://www.co.dev)                       | [Pro](https://www.co.dev/pricing) (49 \$/m)       | No     | Yes       | No          |
 
 ---
 
