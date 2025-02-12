@@ -62,6 +62,7 @@ List of AI-powered cloud-based developer tools.
 | [Webcrumbs](https://www.webcrumbs.org)         | Free?                                             | -      | Yes       | Yes         |
 | [Dewhale](https://github.com/Yuyz0112/dewhale) | -                                                 | -      | Yes       | Yes         |
 | [Bolt.diy](https://bolt.diy)                   | User API key (Token usage)                        | No     | No        | No          |
+| [Wegic](https://wegic.ai)                      | [Basic](https://wegic.ai/pricing) (11.9 \$/m)     | No     | Yes       | No          |
 | [Durable](https://durable.co)                  | [Starter](https://durable.co/pricing) (15 \$/m)   | No     | No        | No          |
 | [CodeParrot](https://codeparrot.ai)            | [Pro](https://codeparrot.ai/pricing) (19 \$/m)    | 2-week | No        | No          |
 | [v0](https://v0.dev)                           | [Premium](https://v0.dev/pricing) (20 \$/m)       | No     | Yes       | No          |
