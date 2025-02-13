@@ -11,7 +11,7 @@ A curated list of AI-powered code editor and IDE's categorized by their usage, s
 
 - [IDE & Editors](#ide--editors)
 - [Plugins](#plugins)
-- [SaaS](#saas)
+- [SaaS](#saas--web-app)
 - [CLI](#cli)
 
 ---
