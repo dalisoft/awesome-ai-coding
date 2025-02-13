@@ -11,7 +11,7 @@ A curated list of AI-powered code editor and IDE's categorized by their usage, s
 
 - [IDE & Editors](#ide--editors)
 - [Plugins](#plugins)
-- [SaaS](#saas)
+- [SaaS](#saas--web-app)
 - [CLI](#cli)
 
 ---
@@ -51,7 +51,7 @@ List of AI-powered coding plugins and extensions.
 
 ---
 
-## SaaS
+## SaaS / Web-app
 
 List of AI-powered cloud-based developer tools.
 
@@ -70,6 +70,7 @@ List of AI-powered cloud-based developer tools.
 | [Bolt.new](https://bolt.new)                   | [Pro](https://bolt.new) (20 \$/m)                 | No     | Yes?      | No          |
 | [Builder](https://builder.io)                  | [Pro](https://www.builder.io/m/pricing) (24 \$/m) | No     | Yes       | No          |
 | [Co](https://www.co.dev)                       | [Pro](https://www.co.dev/pricing) (49 \$/m)       | No     | Yes       | No          |
+| [Softgen](https://softgen.ai)                  | ?                                                 | ?      | Yes?      | No          |
 
 ---
 
