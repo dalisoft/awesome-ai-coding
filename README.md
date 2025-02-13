@@ -38,16 +38,16 @@ List of AI-powered IDEs and code editors.
 
 List of AI-powered coding plugins and extensions.
 
-| Name                                                  | Minimal plan                                                         | Trial  | Free plan | Open Source |
-| ----------------------------------------------------- | -------------------------------------------------------------------- | ------ | --------- | ----------- |
-| [Continue.dev AI](https://continue.dev)               | User API key (Token usage)                                           | -      | -         | Yes         |
-| [Cline](https://github.com/cline/cline)               | User API key (Token usage)                                           | -      | -         | Yes         |
-| [Roo-Code](https://github.com/RooVetGit/Roo-Code)     | User API key (Token usage)                                           | -      | -         | Yes         |
-| [TabNine](https://www.tabnine.com)                    | [Dev](https://www.tabnine.com/pricing) (9 \$/m)                      | 30-day | Yes       | No          |
-| [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m)           | 30-day | Yes       | No          |
-| [Codeium](https://codeium.com)                        | [Pro](https://codeium.com/pricing) (15 \$/m)                         | No     | Yes       | No          |
-| [Sourcegraph Cody](https://sourcegraph.com/cody)      | [Enterprise Starter](https://sourcegraph.com/cody/pricing) (19 \$/m) | No     | Yes       | No          |
-| [Double](https://double.bot)                          | [Pro](https://docs.double.bot/pricing) (20 \$/m)                     | No     | Yes       | No          |
+| Name                                                  | Minimal plan                                               | Trial  | Free plan | Open Source |
+| ----------------------------------------------------- | ---------------------------------------------------------- | ------ | --------- | ----------- |
+| [Continue.dev AI](https://continue.dev)               | User API key (Token usage)                                 | -      | -         | Yes         |
+| [Cline](https://github.com/cline/cline)               | User API key (Token usage)                                 | -      | -         | Yes         |
+| [Roo-Code](https://github.com/RooVetGit/Roo-Code)     | User API key (Token usage)                                 | -      | -         | Yes         |
+| [Sourcegraph Cody](https://sourcegraph.com/cody)      | [Pro](https://sourcegraph.com/cody/pricing) (9 \$/m)       | No     | Yes       | No          |
+| [TabNine](https://www.tabnine.com)                    | [Dev](https://www.tabnine.com/pricing) (9 \$/m)            | 30-day | Yes       | No          |
+| [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m) | 30-day | Yes       | No          |
+| [Codeium](https://codeium.com)                        | [Pro](https://codeium.com/pricing) (15 \$/m)               | No     | Yes       | No          |
+| [Double](https://double.bot)                          | [Pro](https://docs.double.bot/pricing) (20 \$/m)           | No     | Yes       | No          |
 
 ---
 
