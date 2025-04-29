@@ -49,6 +49,7 @@ List of AI-powered coding plugins and extensions.
 | [Codeium](https://codeium.com)                        | [Pro](https://codeium.com/pricing) (15 \$/m)                  | No     | Yes       | No          |
 | [Double](https://double.bot)                          | [Pro](https://docs.double.bot/pricing) (20 \$/m)              | No     | Yes       | No          |
 | [augment code](https://www.augmentcode.com)           | [Professional](https://www.augmentcode.com/pricing) (30 \$/m) | No     | Yes       | No          |
+| [Kilo Code](https://kilocode.ai)                      | [Token Usage](https://kilocode.ai/pricing)                    | -      | Yes       | Yes         |
 
 ---
 
