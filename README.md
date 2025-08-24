@@ -1,6 +1,6 @@
 # awesome-ai-coding
 
-A curated list of AI-powered code editor and IDE's categorized by their usage, sorted by minimal plan price.
+A curated list of AI-powered CLI, code editor and IDE's categorized by their usage, sorted by minimal plan price.
 
 ## Other my awesome lists
 
@@ -69,7 +69,7 @@ List of AI-powered cloud-based developer tools.
 | [v0](https://v0.app)                        | [Premium](https://v0.app/pricing) (20 \$/m)              | No     | Yes       | No          | Frontend   |
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No     | No        | No          | Frontend   |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No     | Yes       | No          | Frontend   |
-| [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No     | Yes?      | No          | Full-stack |
+| [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No     | Yes       | No          | Full-stack |
 | [Builder](https://builder.io)               | [Pro](https://www.builder.io/m/pricing) (30 \$/m)        | No     | Yes       | No          | Frontend   |
 
 ---
@@ -83,9 +83,9 @@ List of AI-powered command-line tools.
 | [Aider](https://aider.chat)                              | BYOK                                                         | -                                | -     | -         | Yes         |
 | [OpenCode](https://github.com/sst/opencode)              | BYOK                                                         | -                                | -     | -         | Yes         |
 | [Qwen Code](https://github.com/QwenLM/qwen-code)         | BYOK, Free                                                   | 2,000 requests / day             | -     | Yes       | Yes         |
-| [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m)   | 19K, 88K or 220K tokens / 5 hour | No    | No        | No          |
-| [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m) | 80 requests / day                | No    | No        | Yes         |
-| [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)     | 1M tokens / day                  | No    | Yes       | Yes         |
+| [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m)   | 19K, 88K or 220K tokens / 5-hour | No    | No        | No          |
+| [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m) | 80 requests / 3-hour             | No    | No        | Yes         |
+| [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)     | 1M tokens / day (free) or higher | No    | Yes       | Yes         |
 
 ---
 
