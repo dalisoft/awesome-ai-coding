@@ -24,7 +24,7 @@ List of AI-powered IDEs and code editors.
 | ------------------------------------ | ----------------------------------------------- | ---------- | --------- | ----------- |
 | [FlexPilot AI](https://flexpilot.ai) | BYOK                                            | -          | -         | Yes         |
 | [VoidEditor](https://voideditor.com) | BYOK                                            | -          | -         | Yes         |
-| [Trae AI](https://trae.ai)           | [Pro](https://www.trae.ai/pricing) (10 \$/m)    | 3 \$/month | Yes       | No          |
+| [Trae AI](https://trae.ai)           | [Pro](https://www.trae.ai/pricing) (10 \$/m)    | 3 \$/m | Yes       | No          |
 | [PearAI](https://trypear.ai)         | [Maker](https://trypear.ai/pricing) (15 \$/m)   | No         | Yes       | Yes         |
 | [Windsurf](https://windsurf.com)     | [Pro](https://windsurf.com/pricing) (15 \$/m)   | No         | Yes       | No          |
 | [Zed](https://zed.dev)               | [Pro](https://zed.dev/pricing) (20 \$/m)        | -          | Yes       | Yes         |
