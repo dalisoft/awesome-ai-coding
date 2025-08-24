@@ -69,7 +69,7 @@ List of AI-powered cloud-based developer tools.
 | [v0](https://v0.app)                        | [Premium](https://v0.app/pricing) (20 \$/m)              | No     | Yes       | No          | Frontend   |
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No     | No        | No          | Frontend   |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No     | Yes       | No          | Frontend   |
-| [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No     | Yes?      | No          | Full-stack |
+| [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No     | Yes       | No          | Full-stack |
 | [Builder](https://builder.io)               | [Pro](https://www.builder.io/m/pricing) (30 \$/m)        | No     | Yes       | No          | Frontend   |
 
 ---
