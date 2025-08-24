@@ -2,6 +2,8 @@
 
 A curated list of AI-powered CLI, code editor and IDE's categorized by their usage, sorted by minimal plan price.
 
+<a href="https://www.producthunt.com/products/awesome-ai-coding?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-awesome&#0045;ai&#0045;coding" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1008787&theme=light&t=1756027113949" alt="awesome&#0045;ai&#0045;coding - List&#0032;of&#0032;AI&#0045;powered&#0032;code&#0032;editor&#0032;and&#0032;IDE&#0039;s | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Other my awesome lists
 
 - [awesome-storage](https://github.com/dalisoft/awesome-storage)
