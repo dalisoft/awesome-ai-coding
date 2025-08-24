@@ -1,6 +1,6 @@
 # awesome-ai-coding
 
-A curated list of AI-powered code editor and IDE's categorized by their usage, sorted by minimal plan price.
+A curated list of AI-powered CLI, code editor and IDE's categorized by their usage, sorted by minimal plan price.
 
 ## Other my awesome lists
 
