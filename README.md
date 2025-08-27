@@ -8,6 +8,7 @@ A curated list of AI-powered CLI, code editor and IDE's categorized by their usa
 
 - [awesome-storage](https://github.com/dalisoft/awesome-storage)
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
+- [awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries)
 
 ## Contents
 
