@@ -51,7 +51,7 @@ List of AI-powered coding plugins and extensions.
 | [GitHub Copilot](https://github.com/features/copilot)                                             | [Pro](https://github.com/features/copilot/plans) (10 \$/m) | 30-day     | Yes       | Yes         |
 | [Continue.dev AI](https://continue.dev)                                                           | BYOK or [Solo](https://hub.continue.dev/pricing) (20 \$/m) | -          | -         | Yes         |
 | [Double](https://double.bot)                                                                      | [Pro](https://docs.double.bot/pricing) (20 \$/m)           | No         | Yes       | No          |
-| [augment code](https://www.augmentcode.com)                                                       | [Developer](https://www.augmentcode.com/pricing) (50 \$/m) | No         | Yes       | No          |
+| [augment code](https://www.augmentcode.com)                                                       | [Developer](https://www.augmentcode.com/pricing) (50 \$/m) | 1-week     | Yes       | No          |
 | [MarsCode](https://www.marscode.com)                                                              | BYOK or Beta?                                              | -          | Yes       | No          |
 
 ---
@@ -91,6 +91,7 @@ List of AI-powered command-line tools.
 | [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m)   | up-to 220K tokens / 5-hour | No     | No        | No          |
 | [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m) | 80 requests / 3-hour       | No     | No        | Yes         |
 | [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)     | up-to 1,500 requests / day | No     | Yes       | Yes         |
+| [Auggie](https://docs.augmentcode.com/cli)               | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)   | -                          | 1-week | Yes       | No          |
 
 ---
 
