@@ -82,16 +82,17 @@ List of AI-powered cloud-based developer tools.
 
 List of AI-powered command-line tools.
 
-| Name                                                     | Minimal plan                                                 | Limits                     | Trial  | Free plan | Open Source |
-| -------------------------------------------------------- | ------------------------------------------------------------ | -------------------------- | ------ | --------- | ----------- |
-| [Aider](https://aider.chat)                              | BYOK                                                         | -                          | -      | -         | Yes         |
-| [OpenCode](https://github.com/sst/opencode)              | BYOK                                                         | -                          | -      | -         | Yes         |
-| [Qwen Code](https://github.com/QwenLM/qwen-code)         | BYOK, Free                                                   | 2,000 requests / day       | -      | Yes       | Yes         |
-| [Cursor](https://cursor.com/cli)                         | [Pro](https://www.cursor.com/pricing) (20 \$/m)              | 200 requests / month       | 2-week | Yes       | No          |
-| [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m)   | up-to 220K tokens / 5-hour | No     | No        | No          |
-| [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m) | 80 requests / 3-hour       | No     | No        | Yes         |
-| [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)     | up-to 1,500 requests / day | No     | Yes       | Yes         |
-| [Auggie](https://docs.augmentcode.com/cli)               | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)   | -                          | 1-week | Yes       | No          |
+| Name                                                     | Minimal plan                                                 | Limits                     | Trial   | Free plan | Open Source |
+| -------------------------------------------------------- | ------------------------------------------------------------ | -------------------------- | ------- | --------- | ----------- |
+| [Aider](https://aider.chat)                              | BYOK                                                         | -                          | -       | -         | Yes         |
+| [OpenCode](https://github.com/sst/opencode)              | BYOK                                                         | -                          | -       | -         | Yes         |
+| [Qwen Code](https://github.com/QwenLM/qwen-code)         | BYOK, Free                                                   | 2,000 requests / day       | -       | Yes       | Yes         |
+| [GitHub Copilot](https://github.com/features/copilot)    | [Pro](https://github.com/features/copilot/plans) (10 \$/m)   | -                          | 30-days | Yes       | No          |
+| [Cursor](https://cursor.com/cli)                         | [Pro](https://www.cursor.com/pricing) (20 \$/m)              | 200 requests / month       | 2-week  | Yes       | No          |
+| [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m)   | up-to 220K tokens / 5-hour | No      | No        | No          |
+| [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m) | 80 requests / 3-hour       | No      | No        | Yes         |
+| [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)     | up-to 1,500 requests / day | No      | Yes       | Yes         |
+| [Auggie](https://docs.augmentcode.com/cli)               | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)   | -                          | 1-week  | Yes       | No          |
 
 ---
 
