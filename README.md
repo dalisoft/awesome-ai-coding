@@ -24,16 +24,16 @@ A curated list of AI-powered CLI, code editor and IDE's categorized by their usa
 
 List of AI-powered IDEs and code editors.
 
-| Name                                 | Minimal plan                                    | Trial  | Free plan | Open Source |
-| ------------------------------------ | ----------------------------------------------- | ------ | --------- | ----------- |
-| [FlexPilot AI](https://flexpilot.ai) | BYOK                                            | -      | -         | Yes         |
-| [VoidEditor](https://voideditor.com) | BYOK                                            | -      | -         | Yes         |
-| [Trae AI](https://trae.ai)           | [Pro](https://www.trae.ai/pricing) (10 \$/m)    | 3 \$/m | Yes       | No          |
-| [PearAI](https://trypear.ai)         | [Maker](https://trypear.ai/pricing) (15 \$/m)   | No     | Yes       | Yes         |
-| [Windsurf](https://windsurf.com)     | [Pro](https://windsurf.com/pricing) (15 \$/m)   | No     | Yes       | No          |
-| [Zed](https://zed.dev)               | [Pro](https://zed.dev/pricing) (20 \$/m)        | -      | Yes       | Yes         |
-| [Cursor](https://www.cursor.com)     | [Pro](https://www.cursor.com/pricing) (20 \$/m) | 2-week | Yes       | No          |
-| [Aide](https://aide.dev)             | [Creator](https://aide.dev/pricing) (20 \$/m)   | No     | Yes       | Yes         |
+| Name                                 | Minimal plan                                    | Usage        | Trial  | Free plan | Open Source |
+| ------------------------------------ | ----------------------------------------------- | ------------ | ------ | --------- | ----------- |
+| [FlexPilot AI](https://flexpilot.ai) | BYOK                                            | Tokens       | -      | -         | Yes         |
+| [VoidEditor](https://voideditor.com) | BYOK                                            | Tokens       | -      | -         | Yes         |
+| [Trae AI](https://trae.ai)           | [Pro](https://www.trae.ai/pricing) (10 \$/m)    | Subscription | 3 \$/m | Yes       | No          |
+| [PearAI](https://trypear.ai)         | [Maker](https://trypear.ai/pricing) (15 \$/m)   | Tokens       | No     | Yes       | Yes         |
+| [Windsurf](https://windsurf.com)     | [Pro](https://windsurf.com/pricing) (15 \$/m)   | Subscription | No     | Yes       | No          |
+| [Zed](https://zed.dev)               | [Pro](https://zed.dev/pricing) (20 \$/m)        | Tokens       | -      | Yes       | Yes         |
+| [Cursor](https://www.cursor.com)     | [Pro](https://www.cursor.com/pricing) (20 \$/m) | Subscription | 2-week | Yes       | No          |
+| [Aide](https://aide.dev)             | [Creator](https://aide.dev/pricing) (20 \$/m)   | Subscription | No     | Yes       | Yes         |
 
 ---
 
@@ -41,18 +41,19 @@ List of AI-powered IDEs and code editors.
 
 List of AI-powered coding plugins and extensions.
 
-| Name                                                                                              | Minimal plan                                               | Trial      | Free plan | Open Source |
-| ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- | --------- | ----------- |
-| [Kilo-Code](https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275) | BYOK                                                       | $20 credit | -         | Yes         |
-| [Cline](https://github.com/cline/cline)                                                           | BYOK                                                       | -          | -         | Yes         |
-| [Roo-Code](https://github.com/RooVetGit/Roo-Code)                                                 | BYOK                                                       | -          | -         | Yes         |
-| [amp](https://ampcode.com)                                                                        | [Pricing](https://ampcode.com/manual#pricing)              | $10 credit | -         | No          |
-| [TabNine](https://www.tabnine.com)                                                                | [Dev](https://www.tabnine.com/pricing) (9 \$/m)            | 14-day     | Yes       | No          |
-| [GitHub Copilot](https://github.com/features/copilot)                                             | [Pro](https://github.com/features/copilot/plans) (10 \$/m) | 30-day     | Yes       | Yes         |
-| [Continue.dev AI](https://continue.dev)                                                           | BYOK or [Solo](https://hub.continue.dev/pricing) (20 \$/m) | -          | -         | Yes         |
-| [Double](https://double.bot)                                                                      | [Pro](https://docs.double.bot/pricing) (20 \$/m)           | No         | Yes       | No          |
-| [augment code](https://www.augmentcode.com)                                                       | [Developer](https://www.augmentcode.com/pricing) (50 \$/m) | 1-week     | Yes       | No          |
-| [MarsCode](https://www.marscode.com)                                                              | BYOK or Beta?                                              | -          | Yes       | No          |
+| Name                                                  | Minimal plan                                                                                           | Usage                | Trial                       | Free plan | Open Source |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------- | --------------------------- | --------- | ----------- |
+| [Kilo-Code][kilo-code-ref]                            | BYOK or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref]                                                       | Tokens               | [$20 credit][kilo-code-ref] | -         | Yes         |
+| [Cline](https://github.com/cline/cline)               | BYOK or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref]                                                       | Tokens               | -                           | -         | Yes         |
+| [Roo-Code](https://github.com/RooVetGit/Roo-Code)     | BYOK or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref]                                                       | Tokens               | -                           | -         | Yes         |
+| [amp](https://ampcode.com)                            | [Pricing](https://ampcode.com/manual#pricing)                                                          | Tokens               | $10 credit                  | -         | No          |
+| [TabNine](https://www.tabnine.com)                    | [Dev](https://www.tabnine.com/pricing) (9 \$/m)                                                        | Subscription         | 14-day                      | Yes       | No          |
+| [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                             | Subscription         | 30-day                      | Yes       | Yes         |
+| [Amazon Q](https://aws.amazon.com/q/developer)        | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                                            | Subscription         | No                          | Yes       | No          |
+| [Continue.dev AI](https://continue.dev)               | BYOK or [Solo](https://hub.continue.dev/pricing) (20 \$/m) or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref] | Tokens, Subscription | -                           | -         | Yes         |
+| [Double](https://double.bot)                          | [Pro](https://docs.double.bot/pricing) (20 \$/m)                                                       | Subscription         | No                          | Yes       | No          |
+| [augment code](https://www.augmentcode.com)           | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)                                             | Subscription         | 1-week                      | Yes       | No          |
+| [MarsCode](https://www.marscode.com)                  | BYOK or Beta?                                                                                          | Tokens               | -                           | Yes       | No          |
 
 ---
 
@@ -71,6 +72,7 @@ List of AI-powered cloud-based developer tools.
 | [CodeParrot](https://codeparrot.ai)         | [Pro](https://codeparrot.ai/pricing) (19 \$/m)           | 2-week | No        | No          | Frontend   |
 | [Co](https://www.co.dev)                    | [Pro](https://www.co.dev/pricing) (19 \$/m)              | No     | Yes       | No          | Full-stack |
 | [v0](https://v0.app)                        | [Premium](https://v0.app/pricing) (20 \$/m)              | No     | Yes       | No          | Frontend   |
+| [replit Agent][replit-ref]                  | [Pro](https://replit.com/pricing) (20 \$/m)              | No     | Yes       | No          | Full-stack |
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No     | No        | No          | Frontend   |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No     | Yes       | No          | Frontend   |
 | [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No     | Yes       | No          | Full-stack |
@@ -82,20 +84,32 @@ List of AI-powered cloud-based developer tools.
 
 List of AI-powered command-line tools.
 
-| Name                                                     | Minimal plan                                                 | Limits                     | Trial   | Free plan | Open Source |
-| -------------------------------------------------------- | ------------------------------------------------------------ | -------------------------- | ------- | --------- | ----------- |
-| [Aider](https://aider.chat)                              | BYOK                                                         | -                          | -       | -         | Yes         |
-| [OpenCode](https://github.com/sst/opencode)              | BYOK                                                         | -                          | -       | -         | Yes         |
-| [Qwen Code](https://github.com/QwenLM/qwen-code)         | BYOK, Free                                                   | 2,000 requests / day       | -       | Yes       | Yes         |
-| [GitHub Copilot](https://github.com/features/copilot)    | [Pro](https://github.com/features/copilot/plans) (10 \$/m)   | -                          | 30-days | Yes       | No          |
-| [Cursor](https://cursor.com/cli)                         | [Pro](https://www.cursor.com/pricing) (20 \$/m)              | 200 requests / month       | 2-week  | Yes       | No          |
-| [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m)   | up-to 220K tokens / 5-hour | No      | No        | No          |
-| [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m) | 80 requests / 3-hour       | No      | No        | Yes         |
-| [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)     | up-to 1,500 requests / day | No      | Yes       | Yes         |
-| [Auggie](https://docs.augmentcode.com/cli)               | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)   | -                          | 1-week  | Yes       | No          |
+| Name                                                     | Minimal plan                                                                  | Usage                | Limits                | Trial   | Free plan | Open Source |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------- | -------------------- | --------------------- | ------- | --------- | ----------- |
+| [Aider](https://aider.chat)                              | BYOK                                                                          | Tokens               | -                     | -       | -         | Yes         |
+| [Grok](https://grokcli.io)                               | BYOK                                                                          | Tokens               | -                     | -       | -         | Yes         |
+| [crush](https://github.com/charmbracelet/crush)          | BYOK or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref]                              | Tokens               | -                     | -       | -         | Yes         |
+| [OpenCode](https://github.com/sst/opencode)              | BYOK or [Zen](https://opencode.ai/docs/zen) or [Alt][z-ai-ref]                | Tokens               | -                     | -       | -         | Yes         |
+| [Qwen Code](https://github.com/QwenLM/qwen-code)         | BYOK or [Alt][cerebras-ref]                                                   | Subscription         | 2,000 req / day       | -       | Yes       | Yes         |
+| [GitHub Copilot](https://github.com/features/copilot)    | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                    | Subscription         | -                     | 30-days | Yes       | No          |
+| [warp Code](https://www.warp.dev)                        | [Pro](https://www.warp.dev/pricing) (15 \$/m)                                 | Subscription         | =< 2,500 req / month  | No      | No        | No          |
+| [Amazon Q](https://aws.amazon.com/q/developer)           | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                   | Subscription         | -                     | No      | Yes       | No          |
+| [Cursor](https://cursor.com/cli)                         | [Pro](https://www.cursor.com/pricing) (20 \$/m)                               | Tokens               | 200 req / month       | 2-week  | Yes       | No          |
+| [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m) or [Alt][z-ai-ref] | Tokens, Subscription | =< 220K tokens / 5-hr | No      | No        | No          |
+| [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m)                  | Tokens, Subscription | 80 req / 3-hour       | No      | No        | Yes         |
+| [Droid](https://factory.ai/product/ide)                  | [Pro](https://factory.ai/pricing) (20 \$/m)                                   | Tokens               | 20M tokens / month    | No      | Yes       | No          |
+| [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)                      | Tokens, Subscription | =< 1,500 req / day    | No      | Yes       | Yes         |
+| [Auggie](https://docs.augmentcode.com/cli)               | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)                    | Tokens               | -                     | 1-week  | Yes       | No          |
 
 ---
 
 ## License
 
 MIT
+
+<!-- referral links -->
+
+[cerebras-ref]: https://cloud.cerebras.ai?referral_code=d5m9c9m4
+[kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
+[replit-ref]: https://replit.com/refer/dalisoft
+[z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
