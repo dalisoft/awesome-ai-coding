@@ -13,13 +13,5 @@
   },
   "editor.wordWrap": "off",
   "editor.wordWrapColumn": 80,
-  "editor.rulers": [80, 120],
-  "markdown.validate.unusedLinkDefinitions.enabled": "warning",
-  "editor.codeActionsOnSave": {
-    "source.organizeLinkDefinitions": "never"
-  },
-  "markdown.validate.enabled": true,
-  "markdownlint.config": {
-    "link-image-reference-definitions": false
-  }
+  "editor.rulers": [80, 120]
 }

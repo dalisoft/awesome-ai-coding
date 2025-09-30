@@ -106,7 +106,7 @@ MIT
 
 <!-- referral links -->
 
-[kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
-[z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
 [cerebras-ref]: https://cloud.cerebras.ai?referral_code=d5m9c9m4
+[kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
 [replit-ref]: https://replit.com/refer/dalisoft
+[z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
