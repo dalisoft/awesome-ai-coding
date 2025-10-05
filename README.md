@@ -22,14 +22,14 @@ A curated list of AI-powered CLI, code editor and IDE's categorized by their usa
 
 ## AI Subscriptions
 
-| Name                                  | Minimal plan | Trial        | Usage                 |
-| ------------------------------------- | ------------ | ------------ | --------------------- |
-| [NanoGPT][nano-gpt-ref]               | 1 \$/month   | -            |                       |
-| [Chutes](https://chutes.ai)           | 3 \$/month   | -            | 300 msg / day         |
-| [GLM Coding][z-ai-ref]                | 6 \$/month   | 50% discount | =< 120 prompts / 5-hr |
-| [Featherless](https://featherless.ai) | 10 \$/momth  | -            | up-to 15B models      |
-| [synthetic](https://synthetic.new)    | 20 \$/month  | -            | 135 msg / 5-hr        |
-| [Cerebras Code][cerebras-ref]         | 50 \$/month  | -            | 24 M. Tokens / day    |
+| Name                                  | Minimal plan                                        | Trial        | Usage                 |
+| ------------------------------------- | --------------------------------------------------- | ------------ | --------------------- |
+| [NanoGPT][nano-gpt-ref]               | Prompt-based (1 \$/m)                               | -            |                       |
+| [Chutes](https://chutes.ai)           | [Base](https://chutes.ai/pricing) (3 \$/m)          | -            | 300 msg / day         |
+| [GLM Coding][z-ai-ref]                | [Lite][z-ai-ref] (6 \$/m)                           | 50% discount | =< 120 prompts / 5-hr |
+| [Featherless](https://featherless.ai) | [Basic](https://featherless.ai/#pricing) (10 \$/m)  | -            | up-to 15B models      |
+| [synthetic](https://synthetic.new)    | [Standard](https://synthetic.new/pricing) (20 \$/m) | -            | 135 msg / 5-hr        |
+| [Cerebras Code][cerebras-ref]         | Pro (50 \$/m)                                       | -            | 24 M. Tokens / day    |
 
 ---
 
@@ -87,7 +87,7 @@ List of AI-powered cloud-based developer tools.
 | [CodeParrot](https://codeparrot.ai)         | [Pro](https://codeparrot.ai/pricing) (19 \$/m)           | 2-week        | No        | No          | Frontend   |
 | [Co](https://www.co.dev)                    | [Pro](https://www.co.dev/pricing) (19 \$/m)              | No            | Yes       | No          | Full-stack |
 | [v0](https://v0.app)                        | [Premium](https://v0.app/pricing) (20 \$/m)              | No            | Yes       | No          | Frontend   |
-| [replit Agent][replit-ref]                  | [Pro](https://replit.com/pricing) (20 \$/m)              | No            | Yes       | No          | Full-stack |
+| [replit Agent][replit-ref]                  | Pro (20 \$/m)                                            | No            | Yes       | No          | Full-stack |
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No            | No        | No          | Frontend   |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No            | Yes       | No          | Frontend   |
 | [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No            | Yes       | No          | Full-stack |
