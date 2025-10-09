@@ -64,6 +64,7 @@ List of AI-powered coding plugins and extensions.
 | [TabNine](https://www.tabnine.com)                    | [Dev](https://www.tabnine.com/pricing) (9 \$/m)                                                        | Subscription         | 14-day                      | Yes       | No          |
 | [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                             | Subscription         | 30-day                      | Yes       | Yes         |
 | [Amazon Q](https://aws.amazon.com/q/developer)        | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                                            | Subscription         | No                          | Yes       | No          |
+| [Droid][droid-ref]                                    | Pro (20 \$/m)                                                                                          | Tokens               | No                          | Yes       | No          |
 | [Continue.dev AI](https://continue.dev)               | BYOK or [Solo](https://hub.continue.dev/pricing) (20 \$/m) or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref] | Tokens, Subscription | -                           | -         | Yes         |
 | [Double](https://double.bot)                          | [Pro](https://docs.double.bot/pricing) (20 \$/m)                                                       | Subscription         | No                          | Yes       | No          |
 | [augment code](https://www.augmentcode.com)           | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)                                             | Subscription         | 1-week                      | Yes       | No          |
@@ -112,7 +113,7 @@ List of AI-powered command-line tools.
 | [Cursor](https://cursor.com/cli)                         | [Pro](https://www.cursor.com/pricing) (20 \$/m)                                         | Tokens               | 200 req / month       | 2-week  | Yes       | No          |
 | [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m) or [Alt][z-ai-ref]           | Tokens, Subscription | =< 220K tokens / 5-hr | No      | No        | No          |
 | [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m)                            | Tokens, Subscription | 80 req / 3-hour       | No      | No        | Yes         |
-| [Droid](https://factory.ai/product/ide)                  | [Pro](https://factory.ai/pricing) (20 \$/m)                                             | Tokens               | 20M tokens / month    | No      | Yes       | No          |
+| [Droid][droid-ref]                                       | Pro (20 \$/m)                                                                           | Tokens               | 20M tokens / month    | No      | Yes       | No          |
 | [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)                                | Tokens, Subscription | =< 1,500 req / day    | No      | Yes       | Yes         |
 | [Auggie](https://docs.augmentcode.com/cli)               | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)                              | Tokens               | -                     | 1-week  | Yes       | No          |
 
@@ -125,6 +126,7 @@ MIT
 <!-- referral links -->
 
 [cerebras-ref]: https://cloud.cerebras.ai?referral_code=d5m9c9m4
+[droid-ref]: https://app.factory.ai/r/O9NKJK6B
 [kilo-code-ref]: https://kilocode.ai/users/sign_up?referral-code=e5be975c-9c80-4370-8547-8a7a18c4a275
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [replit-ref]: https://replit.com/refer/dalisoft
