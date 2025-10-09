@@ -114,6 +114,7 @@ List of AI-powered command-line tools.
 | [Claude Code](https://github.com/anthropics/claude-code) | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m) or [Alt][z-ai-ref]           | Tokens, Subscription | =< 220K tokens / 5-hr | No      | No        | No          |
 | [Codex](https://github.com/openai/codex)                 | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m)                            | Tokens, Subscription | 80 req / 3-hour       | No      | No        | Yes         |
 | [Droid][droid-ref]                                       | Pro (20 \$/m)                                                                           | Tokens               | 20M tokens / month    | No      | Yes       | No          |
+| [Rovo Dev](https://www.atlassian.com/software/rovo-dev)  | Standard (20 \$/m)                                                                      | Tokens               | <= 2,000 credits      | 30-days | No        | No          |
 | [Gemini](https://github.com/google-gemini/gemini-cli)    | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)                                | Tokens, Subscription | =< 1,500 req / day    | No      | Yes       | Yes         |
 | [Auggie](https://docs.augmentcode.com/cli)               | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)                              | Tokens               | -                     | 1-week  | Yes       | No          |
 
