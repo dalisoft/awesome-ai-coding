@@ -110,6 +110,7 @@ List of AI-powered command-line tools.
 | [Cline](https://docs.cline.bot/cline-cli/overview)        | BYOK or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref]                                        | Tokens               | -                     | -                           | -         | Yes         |
 | [Grok](https://grokcli.io)                                | BYOK                                                                                    | Tokens               | -                     | -                           | -         | Yes         |
 | [Kilo-Code][kilo-code-ref]                                | BYOK or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref]                                        | Tokens               | -                     | [$20 credit][kilo-code-ref] | -         | Yes         |
+| [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | Mistral BYOK                                                                            | Tokens               | -                     | Free                        | -         | Yes         |
 | [Nanocoder](https://github.com/Nano-Collective/nanocoder) | BYOK or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref]                                        | Tokens               | -                     | -                           | -         | Yes         |
 | [OpenCode](https://github.com/sst/opencode)               | BYOK or [Zen](https://opencode.ai/docs/zen) or [Alt 1][z-ai-ref], [Alt 2][cerebras-ref] | Tokens               | -                     | -                           | -         | Yes         |
 | [Qwen Code](https://github.com/QwenLM/qwen-code)          | BYOK or [Alt][cerebras-ref]                                                             | Subscription         | 2,000 req / day       | -                           | Yes       | Yes         |
@@ -125,6 +126,7 @@ List of AI-powered command-line tools.
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | Standard (20 \$/m)                                                                      | Tokens               | <= 2,000 credits      | 30-days                     | No        | No          |
 | [Gemini](https://github.com/google-gemini/gemini-cli)     | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)                                | Tokens, Subscription | =< 1,500 req / day    | No                          | Yes       | Yes         |
 | [Auggie](https://docs.augmentcode.com/cli)                | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)                              | Tokens               | -                     | 1-week                      | Yes       | No          |
+| [Juniue CLI](https://junie.jetbrains.com)                 | -                                                                                       | -                    | -                     | -                           | -         | No          |
 
 ---
 
