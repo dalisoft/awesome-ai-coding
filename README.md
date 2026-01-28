@@ -22,15 +22,15 @@ A curated list of AI-powered CLI, code editor and IDE's categorized by their usa
 
 ## AI Subscriptions
 
-| Name                                          | Minimal plan                                        | Trial        | Usage                 |
-| --------------------------------------------- | --------------------------------------------------- | ------------ | --------------------- |
-| [NanoGPT][nano-gpt-ref]                       | Prompt-based (1 \$/m)                               | -            |                       |
-| [Chutes](https://chutes.ai)                   | [Base](https://chutes.ai/pricing) (3 \$/m)          | -            | 300 msg / day         |
-| [GLM Coding][z-ai-ref]                        | [Lite][z-ai-ref] (6 \$/m)                           | 50% discount | =< 120 prompts / 5-hr |
-| [MiniMax Coding][minimax-ref]                 | [Starter][minimax-ref] (10 \$/m)                    | 80% discount | =< 100 prompts / 5-hr |
-| [Featherless](https://featherless.ai)         | [Basic](https://featherless.ai/#pricing) (10 \$/m)  | -            | up-to 15B models      |
-| [synthetic](https://synthetic.new)            | [Standard](https://synthetic.new/pricing) (20 \$/m) | -            | 135 msg / 5-hr        |
-| [Cerebras Code](https://www.cerebras.ai/code) | [Pro](https://www.cerebras.ai/code) (50 \$/m)       | -            | 24 M. Tokens / day    |
+| Name                                          | Minimal plan                                       | Trial        | Usage                 |
+| --------------------------------------------- | -------------------------------------------------- | ------------ | --------------------- |
+| [NanoGPT][nano-gpt-ref]                       | Prompt-based (1 \$/m)                              | -            |                       |
+| [Chutes](https://chutes.ai)                   | [Base](https://chutes.ai/pricing) (3 \$/m)         | -            | 300 msg / day         |
+| [GLM Coding][z-ai-ref]                        | [Lite][z-ai-ref] (6 \$/m)                          | 50% discount | =< 120 prompts / 5-hr |
+| [MiniMax Coding][minimax-ref]                 | [Starter][minimax-ref] (10 \$/m)                   | 80% discount | =< 100 prompts / 5-hr |
+| [Featherless](https://featherless.ai)         | [Basic](https://featherless.ai/#pricing) (10 \$/m) | -            | up-to 15B models      |
+| [synthetic][synthetic-ref]                    | [Standard][synthetic-ref] (20 \$/m)                | -            | 135 msg / 5-hr        |
+| [Cerebras Code](https://www.cerebras.ai/code) | [Pro](https://www.cerebras.ai/code) (50 \$/m)      | -            | 24 M. Tokens / day    |
 
 ---
 
@@ -147,4 +147,5 @@ MIT
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
+[synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
 [z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
