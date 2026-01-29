@@ -101,7 +101,7 @@ List of AI-powered cloud-based developer tools.
 
 ## CLI
 
-List of AI-powered command-line tools.
+List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md).
 
 | Name                                                      | Minimal plan                                                                                                         | Usage                | Limits                | Trial     | Free plan | Open Source |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------------- | --------- | --------- | ----------- |
