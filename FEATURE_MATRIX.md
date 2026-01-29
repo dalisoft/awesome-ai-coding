@@ -9,7 +9,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily
 | Performance        | Slow        | Fast        | Fastest     | Medium      | Medium      |
 | Debug agent        | Yes         | No          | No          | No          | -           |
 | Extensions         | VSCode      | -           | VSCode      | -           | VSCode      |
-| IDE Integration    | VSCode, Zed | -           | VSCode, Zed | VSCode, Zed | VSCod, Zed  |
+| IDE Integration    | VSCode, Zed | VSCode      | VSCode, Zed | VSCode, Zed | VSCod, Zed  |
 | **Mode**           |             |             |             |             |             |
 | Orchestrator mode  | No          | No          | No          | No          | No          |
 | Plan mode          | Yes         | Yes         | Yes         | Yes         | No          |
@@ -22,11 +22,11 @@ AI coding agents feature matrix. I provide to tools which i'm using daily
 | MCP Lazy/Search    | Yes         | No          | No          | No          | No          |
 | &nbsp;             |             |             |             |             |             |
 | **Tools**          |             |             |             |             |             |
-| Web search         | Yes         | No          | Yes         | Yes         | Yes         |
-| Web fetch          | Yes         | Yes         | No          | Yes         | Yes         |
+| Web search         | Yes         | No          | Partial     | Yes         | Yes         |
+| Web fetch          | Yes         | Yes         | Yes         | Yes         | Yes         |
 | &nbsp;             |             |             |             |             |             |
 | **Skills**         | Yes         | Yes         | Yes         | Yes         | Yes         |
-| Skills Lazy/Search | Yes         | No          | No          | No          | No          |
+| Skills Lazy/Search | Yes         | Yes         | Yes         | Yes         | Yes         |
 | Skills Commands    | Yes         | No          | No          | No          | No          |
 | &nbsp;             |             |             |             |             |             |
 | **Features**       |             |             |             |             |             |
@@ -39,4 +39,4 @@ AI coding agents feature matrix. I provide to tools which i'm using daily
 | **Customization**  |             |             |             |             |             |
 | Custom models      | Partial     | Yes         | No          | Partial     | No          |
 | **Security**       |             |             |             |             |             |
-| Sandbox            | Yes         | No          | No          | No          | Yes         |
+| Sandbox            | Yes         | No          | Yes         | No          | Yes         |
