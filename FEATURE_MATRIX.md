@@ -12,9 +12,9 @@ AI coding agents feature matrix. I provide to tools which i'm using daily
 | IDE Integration    | VSCode, Zed       | VSCode      | VSCode, Zed       | VSCode, Zed | VSCod, Zed  |
 | **Mode**           |                   |             |                   |             |             |
 | Orchestrator mode  | No                | No          | No                | No          | No          |
-| Plan mode          | Yes               | Yes         | Yes               | Yes         | No          |
+| Plan mode          | Yes               | Yes         | Partial           | Yes         | No          |
 | Act mode           | Yes               | Yes         | Yes               | Yes         | Yes         |
-| Ask mode           | Yes               | Partial     | No                | Partial     | No          |
+| Ask mode           | Yes               | Partial     | Yes               | Partial     | No          |
 | Chat mode          | _Plan mode_       | _Plan mode_ | _Read-only_       | _Plan mode_ | No          |
 | To-Do Prepare      | Yes               | No          | No                | Yes         | No          |
 | &nbsp;             |                   |             |                   |             |             |
@@ -22,7 +22,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily
 | MCP Lazy/Search    | Yes               | No          | No                | No          | No          |
 | &nbsp;             |                   |             |                   |             |             |
 | **Tools**          |                   |             |                   |             |             |
-| Web search         | Yes               | No          | Partial           | Yes         | Yes         |
+| Web search         | Yes               | No          | Yes               | Yes         | Yes         |
 | Web fetch          | Yes               | Yes         | Yes               | Yes         | Yes         |
 | &nbsp;             |                   |             |                   |             |             |
 | **Skills**         | Yes               | Yes         | Yes               | Yes         | Yes         |
