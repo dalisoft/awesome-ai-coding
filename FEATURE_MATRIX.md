@@ -16,7 +16,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Orchestrator mode  | No                | No          | No                | No          | No          |
 | Plan mode          | Yes               | Yes         | Partial           | Yes         | No          |
 | Act mode           | Yes               | Yes         | Yes               | Yes         | Yes         |
-| Ask mode           | Yes               | Partial     | Yes               | Partial     | No          |
+| Ask mode           | Yes               | Partial     | Partial           | Partial     | No          |
 | Chat mode          | _Plan mode_       | _Plan mode_ | _Read-only_       | _Plan mode_ | No          |
 | To-Do Prepare      | Yes               | No          | No                | Yes         | No          |
 | &nbsp;             |                   |             |                   |             |             |
@@ -57,7 +57,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Orchestrator mode  | No          | No                | Yes         | Yes               | No          | No                     | No                 |
 | Plan mode          | Yes         | Yes               | Yes         | Yes               | Partial     | Yes                    | No                 |
 | Act mode           | Yes         | Yes               | Yes         | Yes               | Yes         | Yes                    | Yes                |
-| Ask mode           | Yes         | No                | No          | Partial           | Yes         | Partial                | No                 |
+| Ask mode           | Yes         | No                | No          | Partial           | Partial     | Partial                | No                 |
 | Chat mode          | _Plan mode_ | _Plan mode_       | _Plan mode_ | _Plan mode_       | _Read-only_ | _Plan mode_            | No                 |
 | To-Do Prepare      | Yes         | -                 | -           | Yes               | No          | Yes                    | No                 |
 | &nbsp;             |             |                   |             |                   |             |                        |                    |
