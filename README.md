@@ -56,7 +56,7 @@ List of AI-powered IDEs and code editors.
 
 ## Extensions
 
-List of AI-powered coding plugins and extensions.
+List of AI-powered coding plugins and extensions. See [feature matrix](./FEATURE_MATRIX.md#extensions).
 
 | Name                                                  | Minimal plan                                                                                                                | Usage                | Trial     | Free plan | Open Source |
 | ----------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------- | --------- | ----------- |
@@ -101,7 +101,7 @@ List of AI-powered cloud-based developer tools.
 
 ## CLI
 
-List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md).
+List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#cli-agents).
 
 | Name                                                      | Minimal plan                                                                                                         | Usage                | Limits                | Trial     | Free plan | Open Source |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------------- | --------- | --------- | ----------- |
