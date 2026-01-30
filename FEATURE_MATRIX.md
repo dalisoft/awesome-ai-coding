@@ -9,7 +9,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Performance        | Slow              | Fast        | Fastest           | Medium      | Medium      |
 | Debug agent        | Yes               | No          | No                | No          | -           |
 | Extensions         | VSCode, JetBrains | -           | VSCode, JetBrains | -           | VSCode      |
-| IDE Integration    | VSCode, Zed       | VSCode      | VSCode, Zed       | VSCode, Zed | VSCod, Zed  |
+| IDE Integration    | VSCode, Zed       | VSCode      | VSCode, Zed       | VSCode, Zed | VSCode, Zed |
 | Source code        | Closed            | FOSS        | -                 | Closed      | -           |
 | **Mode**           |                   |             |                   |             |             |
 | Orchestrator mode  | No                | No          | No                | No          | No          |
