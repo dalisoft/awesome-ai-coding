@@ -30,13 +30,16 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | **Skills**         | Yes               | Yes         | Yes               | Yes         | Yes         |
 | Skills Lazy/Search | Yes               | Yes         | Yes               | Yes         | Yes         |
 | Skills Commands    | Yes               | No          | No                | No          | No          |
+| `.agents` Unified  | No                | Yes         | No                | No          | No          |
 | &nbsp;             |                   |             |                   |             |             |
 | **Features**       |                   |             |                   |             |             |
 | `AGENTS.md`        | `CLAUDE.md`       | Yes         | Yes               | Yes         | `GEMINI.md` |
-| Plugins            | Yes               | Yes         | No                | No          | Extensions  |
+| Plugins            | Yes               | Yes         | No                | Yes         | Extensions  |
 | Hooks              | Yes               | No          | No                | Yes         | Yes         |
 | LSP                | Yes               | Yes         | No                | No          | No          |
 | Hierarchical Tree  | Yes               | No          | No                | No          | ?           |
+| Subagents          | Yes               | No          | No                | No          | No          |
+| Swarm/Teams        | Yes               | No          | No                | No          | No          |
 | &nbsp;             |                   |             |                   |             |             |
 | **Customization**  |                   |             |                   |             |             |
 | Custom models      | Partial           | Yes         | No                | Partial     | No          |
@@ -71,6 +74,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | **Skills**         | Yes         | Yes               | Yes         | Kilo Rules        | Yes         | Yes                    | Yes                |
 | Skills Lazy/Search | Yes         | Yes               | Yes         | Yes               | Yes         | Yes                    | Yes                |
 | Skills Commands    | Yes         | No                | No          | No                | No          | No                     | No                 |
+| `.agents` Unified  | No          | No                | No          | No                | No          | No                     | No                 |
 | &nbsp;             |             |                   |             |                   |             |                        |                    |
 | **Features**       |             |                   |             |                   |             |                        |                    |
 | `AGENTS.md`        | `CLAUDE.md` | Yes               | Yes         | Yes               | Yes         | Yes                    | `GEMINI.md`        |
@@ -78,6 +82,8 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Hooks              | Yes         | No                | No          | No                | No          | No                     | Yes                |
 | LSP                | Yes         | No                | No          | No                | No          | No                     | No                 |
 | Hierarchical Tree  | Yes         | Yes               | No          | Yes               | No          | No                     | ?                  |
+| Subagents          | Yes         | No                | No          | No                | No          | No                     | No                 |
+| Swarm/Teams        | Yes         | No                | No          | No                | No          | No                     | No                 |
 | &nbsp;             |             |                   |             |                   |             |                        |                    |
 | **Customization**  |             |                   |             |                   |             |                        |                    |
 | Custom models      | Partial     | Yes               | Yes         | Yes               | No          | No                     | No                 |
