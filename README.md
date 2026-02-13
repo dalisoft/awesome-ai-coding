@@ -139,7 +139,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | Standard (20 \$/m)                                                                           | Tokens               | <= 2,000 credits      | 30-days   | No        | No          |
 | [Gemini](https://github.com/google-gemini/gemini-cli)     | BYOK or [Pricing](https://codeassist.google) (22.8 \$/m)                                     | Tokens, Subscription | =< 1,500 req / day    | No        | Yes       | Yes         |
 | [Auggie](https://docs.augmentcode.com/cli)                | [Developer](https://www.augmentcode.com/pricing) (50 \$/m)                                   | Tokens               | -                     | 1-week    | Yes       | No          |
-| [Juniue CLI](https://junie.jetbrains.com)                 | -                                                                                            | -                    | -                     | -         | -         | No          |
+| [Junie CLI](https://junie.jetbrains.com)                  | -                                                                                            | -                    | -                     | -         | -         | No          |
 
 ---
 
