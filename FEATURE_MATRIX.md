@@ -74,7 +74,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | **Skills**         | Yes         | Yes               | Yes         | Kilo Rules        | Yes         | Yes                    | Yes                |
 | Skills Lazy/Search | Yes         | Yes               | Yes         | Yes               | Yes         | Yes                    | Yes                |
 | Skills Commands    | Yes         | No                | No          | No                | No          | No                     | No                 |
-| `.agents` Unified  | No          | No                | No          | No                | No          | No                     | No                 |
+| `.agents` Unified  | No          | No                | No          | No                | No          | Yes                    | No                 |
 | &nbsp;             |             |                   |             |                   |             |                        |                    |
 | **Features**       |             |                   |             |                   |             |                        |                    |
 | `AGENTS.md`        | `CLAUDE.md` | Yes               | Yes         | Yes               | Yes         | Yes                    | `GEMINI.md`        |
