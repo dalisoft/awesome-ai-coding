@@ -10,7 +10,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Debug agent        | Yes               | No          | No                | No          | -           |
 | Extensions         | VSCode, JetBrains | -           | VSCode, JetBrains | -           | VSCode      |
 | IDE Integration    | VSCode, Zed       | VSCode      | VSCode, Zed       | VSCode, Zed | VSCode, Zed |
-| Source code        | Closed            | FOSS        | -                 | Closed      | -           |
+| Source code        | Closed            | FOSS        | FOSS              | Closed      | -           |
 | &nbsp;             |                   |             |                   |             |             |
 | **Mode**           |                   |             |                   |             |             |
 | Orchestrator mode  | No                | No          | No                | No          | No          |
@@ -54,7 +54,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Performance        | Slow        | Medium            | Medium      | Medium            | Fastest     | Medium                 | Medium             |
 | Debug extension    | -           | -                 | -           | -                 | -           | -                      | -                  |
 | Available          | VSCode, Zed | VSCode, JetBrains | VSCode      | VSCode, JetBrains | VSCode, Zed | VSCode, JetBrains, Zed | VSCode, Zed        |
-| Source code        | Closed      | FOSS              | FOSS        | FOSS              | -           | FOSS                   | -                  |
+| Source code        | Closed      | FOSS              | FOSS        | FOSS              | Closed      | FOSS                   | -                  |
 | &nbsp;             |             |                   |             |                   |             |                        |                    |
 | **Mode**           |             |                   |             |                   |             |                        |                    |
 | Orchestrator mode  | No          | No                | Yes         | Yes               | No          | No                     | No                 |
