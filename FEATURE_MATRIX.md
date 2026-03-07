@@ -14,7 +14,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | &nbsp;             |                   |             |                   |             |             |
 | **Mode**           |                   |             |                   |             |             |
 | Orchestrator mode  | No                | No          | No                | No          | No          |
-| Plan mode          | Yes               | Yes         | Partial           | Yes         | No          |
+| Plan mode          | Yes               | Yes         | Yes               | Yes         | No          |
 | Act mode           | Yes               | Yes         | Yes               | Yes         | Yes         |
 | Ask mode           | Yes               | Partial     | Partial           | Partial     | No          |
 | Chat mode          | _Plan mode_       | _Plan mode_ | _Read-only_       | _Plan mode_ | No          |
@@ -38,11 +38,11 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Hooks              | Yes               | No          | No                | Yes         | Yes         |
 | LSP                | Yes               | Yes         | No                | No          | No          |
 | Hierarchical Tree  | Yes               | No          | No                | No          | ?           |
-| Subagents          | Yes               | No          | No                | No          | No          |
+| Subagents          | Yes               | No          | Yes               | No          | No          |
 | Swarm/Teams        | Yes               | No          | No                | No          | No          |
 | &nbsp;             |                   |             |                   |             |             |
 | **Customization**  |                   |             |                   |             |             |
-| Custom models      | Partial           | Yes         | No                | Partial     | No          |
+| Custom models      | Partial           | Yes         | Partial           | Partial     | No          |
 | BYOK               | Vendor            | Yes         | Vendor            | Yes         | Vendor      |
 | **Security**       |                   |             |                   |             |             |
 | Sandbox            | Yes               | No          | Yes               | No          | Yes         |
@@ -58,7 +58,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | &nbsp;             |             |                   |             |                   |             |                        |                    |
 | **Mode**           |             |                   |             |                   |             |                        |                    |
 | Orchestrator mode  | No          | No                | Yes         | Yes               | No          | No                     | No                 |
-| Plan mode          | Yes         | Yes               | Yes         | Yes               | Partial     | Yes                    | No                 |
+| Plan mode          | Yes         | Yes               | Yes         | Yes               | Yes         | Yes                    | No                 |
 | Act mode           | Yes         | Yes               | Yes         | Yes               | Yes         | Yes                    | Yes                |
 | Ask mode           | Yes         | No                | No          | Partial           | Partial     | Partial                | No                 |
 | Chat mode          | _Plan mode_ | _Plan mode_       | _Plan mode_ | _Plan mode_       | _Read-only_ | _Plan mode_            | No                 |
@@ -82,11 +82,11 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Hooks              | Yes         | No                | No          | No                | No          | No                     | Yes                |
 | LSP                | Yes         | No                | No          | No                | No          | No                     | No                 |
 | Hierarchical Tree  | Yes         | Yes               | No          | Yes               | No          | No                     | ?                  |
-| Subagents          | Yes         | No                | No          | No                | No          | No                     | No                 |
+| Subagents          | Yes         | No                | No          | No                | Yes         | No                     | No                 |
 | Swarm/Teams        | Yes         | No                | No          | No                | No          | No                     | No                 |
 | &nbsp;             |             |                   |             |                   |             |                        |                    |
 | **Customization**  |             |                   |             |                   |             |                        |                    |
-| Custom models      | Partial     | Yes               | Yes         | Yes               | No          | No                     | No                 |
+| Custom models      | Partial     | Yes               | Yes         | Yes               | Partial     | No                     | No                 |
 | BYOK               | Vendor      | Yes               | Yes         | Yes               | Vendor      | Partial                | Vendor             |
 | **Security**       |             |                   |             |                   |             |                        |                    |
 | Sandbox            | Yes         | No                | No          | No                | Yes         | No                     | Yes                |
