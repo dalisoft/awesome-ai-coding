@@ -24,20 +24,22 @@ A curated list of AI-powered CLI, code editor and IDE's categorized by their usa
 
 ### Subscriptions
 
-| Name                                                      | Minimal plan                                                  | Trial        | Usage                 |
-| --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------- |
-| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day         |
-| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (6 \$/m)                                     | 50% discount | =< 120 prompts / 5-hr |
-| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                       |
-| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr |
-| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models      |
-| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                |
-| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                       |
-| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr  |
-| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -            | <= 100 prompts / 5-hr |
-| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | Free plan    | <= 500 prompts / 5-hr |
-| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr        |
-| [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day    |
+| Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
+| --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
+| [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
+| [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
+| [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
+| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (10 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
+| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
+| [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models          |
+| [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                    |
+| [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                           |
+| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr      |
+| [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                 | -            | <= 100 prompts / 5-hr     |
+| [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m) | Free plan    | <= 500 prompts / 5-hr     |
+| [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                           | -            | 135 msg / 5-hr            |
+| [Cerebras Code](https://www.cerebras.ai/code)             | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day        |
+| [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= **90,000** req / month |
 
 ### Tokens
 
@@ -127,8 +129,8 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | [Mastra Code](https://code.mastra.ai)                     | [See providers](#providers)                                                                  | Tokens               | -                     | -         | -         | No          |
 | [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | Mistral BYOK                                                                                 | Tokens               | -                     | Free      | -         | Yes         |
 | [Nanocoder](https://github.com/Nano-Collective/nanocoder) | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
-| [OpenCode](https://github.com/sst/opencode)               | BYOK or [Zen](https://opencode.ai/docs/zen) or [see providers](#providers)                   | Tokens               | -                     | -         | -         | Yes         |
-| [Qwen Code](https://github.com/QwenLM/qwen-code)          | BYOK or [see providers](#providers)                                                          | Subscription         | 2,000 req / day       | -         | Yes       | Yes         |
+| [OpenCode](https://github.com/sst/opencode)               | [Zen](https://opencode.ai/docs/zen) or [see providers](#providers)                           | Tokens               | -                     | -         | -         | Yes         |
+| [Qwen Code](https://github.com/QwenLM/qwen-code)          | Free or [see providers](#providers)                                                          | Subscription         | 2,000 req / day       | -         | Yes       | Yes         |
 | [GitHub Copilot](https://github.com/features/copilot)     | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                   | Subscription         | -                     | 30-days   | Yes       | No          |
 | [warp Code](https://www.warp.dev)                         | [Pro](https://www.warp.dev/pricing) (15 \$/m)                                                | Subscription         | =< 2,500 req / month  | No        | No        | No          |
 | [Amazon Q](https://aws.amazon.com/q/developer)            | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                                  | Subscription         | -                     | No        | Yes       | No          |
@@ -157,6 +159,7 @@ MIT
 
 <!-- referral links -->
 
+[alibaba-cloud-ref]: https://www.alibabacloud.com/campaign/ai-scene-coding?referral_code=A924PN
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
