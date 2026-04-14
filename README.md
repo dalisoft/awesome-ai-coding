@@ -27,11 +27,12 @@ A curated list of AI-powered CLI, code editor and IDE's categorized by their usa
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                     |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | ------------------------- |
 | [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day             |
+| [nahcrof](https://ai.nahcrof.com)                         | [Pricing](https://ai.nahcrof.com/pricing) (5 \$/m)            | -            | 500 req / day             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                           |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | 80% discount | =< 100 prompts / 5-hr     |
-| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (10 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
 | [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount | <= 10,000 prompts / 5-hr  |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models          |
+| [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -            | =< 120 prompts / 5-hr     |
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                    |
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                           |
 | [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                   | -            | <= 30 prompts / 5-hr      |
