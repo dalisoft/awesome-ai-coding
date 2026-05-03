@@ -21,7 +21,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | To-Do Prepare      | Yes               | No          | No                | Yes         | No          |
 | &nbsp;             |                   |             |                   |             |             |
 | **MCP**            | Yes               | Yes         | Yes               | Yes         | Yes         |
-| MCP Lazy/Search    | Yes               | No          | No                | No          | No          |
+| MCP Lazy/Search    | Yes               | No          | _Beta_            | No          | No          |
 | &nbsp;             |                   |             |                   |             |             |
 | **Tools**          |                   |             |                   |             |             |
 | Web search         | Yes               | No          | Yes               | Yes         | Yes         |
@@ -65,7 +65,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | To-Do Prepare      | Yes         | -                 | Yes               | No          | Yes                    | No                 |
 | &nbsp;             |             |                   |                   |             |                        |                    |
 | **MCP**            | Yes         | Yes               | Yes               | Yes         | Yes                    | Yes                |
-| MCP Lazy/Search    | Yes         | No                | No                | No          | No                     | No                 |
+| MCP Lazy/Search    | Yes         | No                | No                | No          | Yes                    | No                 |
 | &nbsp;             |             |                   |                   |             |                        |                    |
 | **Tools**          |             |                   |                   |             |                        |                    |
 | Web search         | Yes         | Partial           | No                | Yes         | Yes                    | Yes                |
