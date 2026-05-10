@@ -150,6 +150,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 
 ## Resources
 
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Local TUI and reports for inspecting AI coding-agent sessions, costs, tool calls, and run history.
 - <https://github.com/inmve/free-ai-coding>
 
 ---
