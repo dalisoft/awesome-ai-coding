@@ -6,7 +6,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 
 | Features           | Claude Code       | OpenCode    | Codex             | Droid       | Gemini      |
 | ------------------ | ----------------- | ----------- | ----------------- | ----------- | ----------- |
-| Performance        | Slow              | Fast        | Fast              | Medium      | Medium      |
+| Performance        | Medium            | Fast        | Fast              | Medium      | Medium      |
 | Debug agent        | Yes               | No          | No                | No          | -           |
 | Extensions         | VSCode, JetBrains | -           | VSCode, JetBrains | -           | VSCode      |
 | IDE Integration    | VSCode, Zed       | VSCode      | VSCode, Zed       | VSCode, Zed | VSCode, Zed |
