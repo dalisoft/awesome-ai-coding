@@ -150,6 +150,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 
 ## Resources
 
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Bash helper for switching OpenAI Codex CLI/Desktop accounts with isolated `CODEX_HOME` profiles, without copying tokens.
 - <https://github.com/inmve/free-ai-coding>
 
 ---
