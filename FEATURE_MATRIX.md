@@ -22,12 +22,12 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Ralph / METR       | No                        | No          | [`/goal`][codg]                                | [`/missions`][dromis] | No          |
 | &nbsp;             |                           |             |                                                |                       |             |
 | **MCP**            | Yes                       | Yes         | Yes                                            | Yes                   | Yes         |
-| MCP Lazy/Search    | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> | No                    | No          |
+| MCP Lazy/Search    | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> | Yes [1][drodce]       | No          |
 | &nbsp;             |                           |             |                                                |                       |             |
 | **Tools**          |                           |             |                                                |                       |             |
 | Web search         | Yes                       | No          | Yes                                            | Yes                   | Yes         |
 | Web fetch          | Yes                       | Yes         | Yes                                            | Yes                   | Yes         |
-| Tool search        | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> | No                    | No          |
+| Tool search        | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> | Yes [1][drodce]       | No          |
 | Advisor            | _A/B_ <sup>[1][cc2]</sup> | No          | No                                             | No                    | No          |
 | Parallel calling   | Yes <sup>[1][cc3]</sup>   | Yes ?       | _GPT-5.4_+                                     | No                    | No          |
 | &nbsp;             |                           |             |                                                |                       |             |
@@ -102,4 +102,5 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 [cod2]: https://github.com/openai/codex/pull/10657
 [cod3]: https://www.reddit.com/r/codex/comments/1t10am2/codex_features_list_which_are_disabled_under
 [codg]: https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex
+[drodce]: https://factory.ai/news/deferred-context-engine
 [dromis]: https://factory.ai/news/missions
