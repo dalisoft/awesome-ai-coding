@@ -18,6 +18,15 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 - [KiloCode](https://kilo.ai)
 - [nahcrof](https://ai.nahcrof.com)
 
+## Status
+
+- ✅ – Trusted and verified by author
+- ⚠️ – Not trusted or broken link
+- ⛔️ – Not recommended
+- ❌ – Not trusted and not recommended
+- 🛑 - End of life
+- Without badge – Not verified by author
+
 ## Contents
 
 - [IDE & Editors](#ide--editors)
