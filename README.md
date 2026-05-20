@@ -155,9 +155,10 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 
 ## Tools
 
-| Name       | Link                                     |
-| ---------- | ---------------------------------------- |
-| agenttrace | <https://github.com/luoyuctl/agenttrace> |
+| Name           | Link                                        |
+| -------------- | ------------------------------------------- |
+| agenttrace     | <https://github.com/luoyuctl/agenttrace>    |
+| codex-profiles | <https://github.com/Ducksss/codex-profiles> |
 
 ## Resources
 
