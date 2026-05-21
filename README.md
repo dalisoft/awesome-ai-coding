@@ -47,7 +47,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -               | 500 req / day         |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -               |                       |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -               | =< 100 prompts / 5-hr |
-| [OpenCode Go](https://opencode.ai/go)                     | 10 \$/m                                                       | 50% discount    | $60 value             |
+| [OpenCode Go][opencode-ref]                               | 10 \$/m                                                       | 50% discount    | $60 value             |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -               | up-to 15B models      |
 | [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -               | =< 120 prompts / 5-hr |
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus       | Tokens                |
@@ -193,6 +193,7 @@ MIT
 [ccode-ref]: https://www.ccode.dev/register?aff=235H7SWARZPN
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
+[opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
