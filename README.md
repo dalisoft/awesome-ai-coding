@@ -48,6 +48,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -            | =< 100 prompts / 5-hr |
 | [OpenCode Go][opencode-ref]                               | 10 \$/m                                                       | 50% discount | $60 value             |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)            | -            | up-to 15B models      |
+| [wafer](https://wafer.ai)                                 | [Lite](https://www.wafer.ai) (12 \$/m)                        | -            | 100 req / 5-hr        |
 | [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                    | -            | =< 120 prompts / 5-hr |
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)        | 50% bonus    | Tokens                |
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) | -            |                       |
