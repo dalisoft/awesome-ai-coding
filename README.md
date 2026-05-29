@@ -44,6 +44,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------ | --------------------- |
 | [Chutes](https://chutes.ai)                               | [Base](https://chutes.ai/pricing) (3 \$/m)                    | -            | 300 msg / day         |
 | **[nahcrof](https://ai.nahcrof.com)** ✅                  | [Hobby](https://ai.nahcrof.com/pricing) (5 \$/m)              | -            | 500 req / day         |
+| [Xiaomi Token Plan][xiaomi-ref]                           | [Lite][xiaomi-ref] (6 \$/m)                                   | 12% discount | 4B tokens             |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                  | -            |                       |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                              | -            | =< 100 prompts / 5-hr |
 | [OpenCode Go][opencode-ref]                               | 10 \$/m                                                       | 50% discount | $60 value             |
@@ -196,4 +197,5 @@ MIT
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
+[xiaomi-ref]: https://platform.xiaomimimo.com?ref=UZWW8Z
 [z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
