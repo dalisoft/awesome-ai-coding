@@ -83,8 +83,7 @@ List of AI-powered IDEs and code editors.
 | [Aide](https://aide.dev)                 | [Creator](https://aide.dev/pricing) (20 \$/m)   | Subscription | No     | Yes       | Yes         |
 | [Kiro](https://kiro.dev)                 | [Kiro Pro](https://kiro.dev/pricing) (20 \$/m)  | Subscription | 2-week | Yes       | No          |
 | [Qoder][qoder-ref]                       | Pro (20 \$/m)                                   | Subscription | Beta   | Beta      | No          |
-
----
+| [BuilderStudio](https://builderstudio.dev) | BYOK                                          | Tokens       | 7-days | Yes       | No          |
 
 ## Extensions
 
@@ -170,8 +169,6 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 ---
 
 ## Tools
-
-* [BuilderStudio](https://builderstudio.dev) - Native macOS agentic coding workspace from WunderCorp for secure local/cloud AI development, reusable Skills and Pathways, MCP integrations, Hermes-powered container-only execution, Agentic Swarms for parallel specialized agents, app previews, terminal workflows, packaging/deployment, and flexible routing across 380+ AI models.
 
 
 | Name           | Link                                        |
