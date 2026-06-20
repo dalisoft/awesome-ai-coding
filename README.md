@@ -93,8 +93,8 @@ List of AI-powered coding plugins and extensions. See [feature matrix](./FEATURE
 
 | Name                                                  | Minimal plan                                                                              | Usage                | Trial     | Free plan | Open Source |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------- | --------- | --------- | ----------- |
-| [Kilo-Code](https://kilo.ai)                          | BYOK or [see providers](#providers)                                                       | Tokens               | $2 credit | -         | Yes         |
 | [Cline](https://github.com/cline/cline)               | BYOK or [see providers](#providers)                                                       | Tokens               | -         | -         | Yes         |
+| [Kilo-Code](https://kilo.ai)                          | BYOK or [see providers](#providers)                                                       | Tokens               | $2 credit | -         | Yes         |
 | [Roo-Code](https://github.com/RooVetGit/Roo-Code)     | BYOK or [see providers](#providers)                                                       | Tokens               | -         | -         | Yes         |
 | [amp](https://ampcode.com)                            | [Pricing](https://ampcode.com/manual#pricing)                                             | Tokens               | $10/day   | Yes       | No          |
 | [TabNine](https://www.tabnine.com)                    | [Dev](https://www.tabnine.com/pricing) (9 \$/m)                                           | Subscription         | 14-day    | Yes       | No          |
@@ -115,9 +115,9 @@ List of AI-powered cloud-based developer tools.
 | Name                                        | Minimal plan                                             | Trial         | Free plan | Open Source | Stack      |
 | ------------------------------------------- | -------------------------------------------------------- | ------------- | --------- | ----------- | ---------- |
 | [Firebase Studio](https://firebase.studio/) | -                                                        | No            | Yes       | No          | Full       |
-| [Webcrumbs](https://www.webcrumbs.org)      | BYOK                                                     | -             | -         | Yes         | Frontend   |
 | [Bolt.diy](https://bolt.diy)                | BYOK                                                     | -             | -         | No          | Full-stack |
 | [Softgen](https://softgen.ai)               | BYOK with [Annual](https://softgen.ai/pricing) (33 \$/y) | No            | No        | No          | Full-stack |
+| [Webcrumbs](https://www.webcrumbs.org)      | BYOK                                                     | -             | -         | Yes         | Frontend   |
 | [Blackbox AI](https://blackbox.ai)          | [Pro](https://www.blackbox.ai/pricing) (4 \$/m)          | No            | Yes       | No          | -          |
 | [Memex](https://memex.tech)                 | [Build](https://memex.tech/pricing) (10 \$/m)            | 1,000 credits | Yes       | No          | -          |
 | [Durable](https://durable.co)               | [Starter](https://durable.co/pricing) (15 \$/m)          | No            | No        | No          | Frontend   |
@@ -141,6 +141,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | [Aider](https://aider.chat)                               | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
 | [amp](https://ampcode.com)                                | [Pricing](https://ampcode.com/manual#pricing)                                                | Tokens               | -                     | No        | Yes       | No          |
 | [Cline](https://docs.cline.bot/cline-cli/overview)        | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
+| [CommandCode](https://commandcode.ai)                     | [Go](https://commandcode.ai/pricing)                                                         | Tokens, Subscription | $10 value             | -         | No        | No          |
 | [crush](https://github.com/charmbracelet/crush)           | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
 | [Forge Code](https://forgecode.dev)                       | [See providers](#providers)                                                                  | Tokens               | -                     | -         | -         | Partial     |
 | [Grok](https://grokcli.io)                                | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
@@ -150,10 +151,9 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | [Mastra Code](https://code.mastra.ai)                     | [See providers](#providers)                                                                  | Tokens               | -                     | -         | -         | No          |
 | [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | Mistral BYOK                                                                                 | Tokens               | -                     | Free      | -         | Yes         |
 | [Nanocoder](https://github.com/Nano-Collective/nanocoder) | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
-| [Pi](https://pi.dev)                                      | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
 | [OpenCode](https://github.com/sst/opencode)               | [Zen](https://opencode.ai/docs/zen) or [see providers](#providers)                           | Tokens               | -                     | -         | -         | Yes         |
+| [Pi](https://pi.dev)                                      | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
 | [Qwen Code](https://github.com/QwenLM/qwen-code)          | Free or [see providers](#providers)                                                          | Subscription         | 2,000 req / day       | -         | Yes       | Yes         |
-| [CommandCode](https://commandcode.ai)                     | [Go](https://commandcode.ai/pricing)                                                         | Tokens, Subscription | $10 value             | -         | No        | No          |
 | [GitHub Copilot](https://github.com/features/copilot)     | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                   | Subscription         | -                     | 30-days   | Yes       | No          |
 | [warp Code](https://www.warp.dev)                         | [Pro](https://www.warp.dev/pricing) (15 \$/m)                                                | Subscription         | =< 2,500 req / month  | No        | No        | No          |
 | [Amazon Q](https://aws.amazon.com/q/developer)            | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                                  | Subscription         | -                     | No        | Yes       | No          |
