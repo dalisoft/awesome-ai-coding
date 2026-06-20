@@ -85,6 +85,8 @@ List of AI-powered IDEs and code editors.
 | [Kiro](https://kiro.dev)                   | [Kiro Pro](https://kiro.dev/pricing) (20 \$/m)  | Subscription | 2-week | Yes       | No          |
 | [Qoder][qoder-ref]                         | Pro (20 \$/m)                                   | Subscription | Beta   | Beta      | No          |
 
+---
+
 ## Extensions
 
 List of AI-powered coding plugins and extensions. See [feature matrix](./FEATURE_MATRIX.md#extensions).
