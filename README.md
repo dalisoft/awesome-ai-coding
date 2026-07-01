@@ -60,7 +60,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day    |
 | [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= 90,000 req / month |
 
-### Model Intelligent Router
+### Intelligent Model Router
 
 This method known as: Auto-switch, Auto Router
 
