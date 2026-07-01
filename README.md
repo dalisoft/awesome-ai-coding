@@ -60,6 +60,20 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                 | -            | 24 M. Tokens / day    |
 | [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                            | -            | <= 90,000 req / month |
 
+### Model Intelligent Router
+
+This method known as: Auto-switch, Auto Router
+
+| Name                                                     | Fee          | Trial | Tied to                     |
+| -------------------------------------------------------- | ------------ | ----- | --------------------------- |
+| [BTL Runtime](https://runtime.badtheorylabs.com)         | 4%           | $5    | -                           |
+| [Factory Router](https://factory.ai/news/factory-router) | 0%           | -     | [Droid](https://factory.ai) |
+| [Kilo Auto Efficient](https://kilo.ai/auto-model)        | 0%           | -     | -                           |
+| [NadirClaw](https://github.com/NadirRouter/NadirClaw)    | -            | -     | -                           |
+| [OpenRouter Auto](https://openrouter.ai/openrouter/auto) | Platform Fee | -     | -                           |
+| [Orca Router](https://www.orcarouter.ai)                 | 0%           | -     | -                           |
+| [Weave Router](https://github.com/workweave/router)      | -            | -     | -                           |
+
 ### Tokens
 
 See [AI providers](https://github.com/dalisoft/awesome-hosting#llminference-api) for token-based usage.
