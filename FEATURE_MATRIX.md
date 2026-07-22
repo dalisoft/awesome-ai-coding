@@ -4,12 +4,12 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 
 ## CLI Agents
 
-| Features           | Claude Code               | OpenCode    | Codex                                          | Droid                 | Gemini      |
+| Features           | Claude Code               | OpenCode    | Codex                                          | Droid                 | Gemini 🛑   |
 | ------------------ | ------------------------- | ----------- | ---------------------------------------------- | --------------------- | ----------- |
-| Performance        | Medium                    | Fast        | Fast                                           | Medium                | Medium      |
+| Performance        | Medium                    | Fast        | Slow                                           | Medium                | Medium      |
 | Debug agent        | Yes                       | No          | No                                             | No                    | -           |
 | Extensions         | VSCode, JetBrains         | -           | VSCode, JetBrains                              | -                     | VSCode      |
-| IDE Integration    | VSCode, Zed               | VSCode      | VSCode, Zed                                    | VSCode, Zed           | VSCode, Zed |
+| IDE Integration    | VSCode                    | VSCode      | VSCode, Zed                                    | VSCode, Zed           | VSCode, Zed |
 | Source code        | Closed                    | FOSS        | FOSS                                           | Closed                | -           |
 | &nbsp;             |                           |             |                                                |                       |             |
 | **Mode**           |                           |             |                                                |                       |             |
@@ -29,7 +29,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | Web fetch          | Yes                       | Yes         | Yes                                            | Yes                   | Yes         |
 | Tool search        | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> | Yes [1][drodce]       | No          |
 | Advisor            | _A/B_ <sup>[1][cc2]</sup> | No          | No                                             | No                    | No          |
-| Parallel calling   | Yes <sup>[1][cc3]</sup>   | Yes ?       | _GPT-5.4_+                                     | No                    | No          |
+| Parallel calling   | Yes <sup>[1][cc3]</sup>   | Yes ?       | Yes                                            | No                    | No          |
 | &nbsp;             |                           |             |                                                |                       |             |
 | **Skills**         | Yes                       | Yes         | Yes                                            | Yes                   | Yes         |
 | Skills Lazy/Search | Yes                       | Yes         | Yes                                            | Yes                   | Yes         |
@@ -38,12 +38,13 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | &nbsp;             |                           |             |                                                |                       |             |
 | **Features**       |                           |             |                                                |                       |             |
 | `AGENTS.md`        | `CLAUDE.md`               | Yes         | Yes                                            | Yes                   | `GEMINI.md` |
-| Plugins            | Yes                       | Yes         | No                                             | Yes                   | Extensions  |
-| Hooks              | Yes                       | No          | No                                             | Yes                   | Yes         |
-| LSP                | Yes                       | Yes         | No                                             | No                    | No          |
+| Plugins            | Yes                       | Yes         | Yes                                            | Yes                   | Extensions  |
+| Hooks              | Yes                       | No          | Yes                                            | Yes                   | Yes         |
+| LSP                | Yes                       | Yes         | Yes                                            | No                    | No          |
 | Hierarchical Tree  | Yes                       | No          | No                                             | No                    | ?           |
 | Subagents          | Yes                       | No          | Yes                                            | No                    | No          |
-| Swarm/Teams        | Yes                       | No          | No                                             | No                    | No          |
+| Swarm/Teams        | Yes                       | No          | Yes                                            | No                    | No          |
+| Steer Chat         | No                        | No          | Yes                                            | No                    | No          |
 | &nbsp;             |                           |             |                                                |                       |             |
 | **Customization**  |                           |             |                                                |                       |             |
 | Custom models      | Partial                   | Yes         | Partial                                        | Partial               | No          |
@@ -55,9 +56,9 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 
 | Features           | Claude Code             | Cline             | Kilo Code         | Codex                                          | Github Copilot         | Gemini Code Assist |
 | ------------------ | ----------------------- | ----------------- | ----------------- | ---------------------------------------------- | ---------------------- | ------------------ |
-| Performance        | Slow                    | Medium            | Medium            | Fastest                                        | Medium                 | Medium             |
+| Performance        | Slow                    | Medium            | Medium            | Medium                                         | Medium                 | Medium             |
 | Debug extension    | -                       | -                 | -                 | -                                              | -                      | -                  |
-| Available          | VSCode, Zed             | VSCode, JetBrains | VSCode, JetBrains | VSCode, Zed                                    | VSCode, JetBrains, Zed | VSCode, Zed        |
+| Available          | VSCode                  | VSCode, JetBrains | VSCode, JetBrains | VSCode, Zed                                    | VSCode, JetBrains, Zed | VSCode, Zed        |
 | Source code        | Closed                  | FOSS              | FOSS              | Closed                                         | FOSS                   | -                  |
 | &nbsp;             |                         |                   |                   |                                                |                        |                    |
 | **Mode**           |                         |                   |                   |                                                |                        |                    |
@@ -82,12 +83,13 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 | &nbsp;             |                         |                   |                   |                                                |                        |                    |
 | **Features**       |                         |                   |                   |                                                |                        |                    |
 | `AGENTS.md`        | `CLAUDE.md`             | Yes               | Yes               | Yes                                            | Yes                    | `GEMINI.md`        |
-| Plugins            | Yes                     | No                | No                | No                                             | No                     | Extensions         |
-| Hooks              | Yes                     | No                | No                | No                                             | No                     | Yes                |
-| LSP                | Yes                     | No                | No                | No                                             | No                     | No                 |
+| Plugins            | Yes                     | No                | No                | Yes                                            | No                     | Extensions         |
+| Hooks              | Yes                     | No                | No                | Yes                                            | No                     | Yes                |
+| LSP                | Yes                     | No                | No                | Yes                                            | No                     | No                 |
 | Hierarchical Tree  | Yes                     | Yes               | Yes               | No                                             | No                     | ?                  |
 | Subagents          | Yes                     | No                | No                | Yes                                            | No                     | No                 |
 | Swarm/Teams        | Yes                     | No                | No                | No                                             | No                     | No                 |
+| Steer Chat         | No                      | No                | Yes               | No                                             | No                     |
 | &nbsp;             |                         |                   |                   |                                                |                        |                    |
 | **Customization**  |                         |                   |                   |                                                |                        |                    |
 | Custom models      | Partial                 | Yes               | Yes               | Partial                                        | No                     | No                 |
