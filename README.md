@@ -194,11 +194,11 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 
 ## Tools
 
-| Name           | Link                                        |
-| -------------- | ------------------------------------------- |
-| agenttrace     | <https://github.com/luoyuctl/agenttrace>    |
-| ax             | <https://github.com/Necmttn/ax>             |
-| codex-profiles | <https://github.com/Ducksss/codex-profiles> |
+| Name                | Link                                            |
+| ------------------- | ----------------------------------------------- |
+| agenttrace          | <https://github.com/luoyuctl/agenttrace>        |
+| ax                  | <https://github.com/Necmttn/ax>                 |
+| codex-profiles      | <https://github.com/Ducksss/codex-profiles>     |
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
 
 ---
