@@ -43,6 +43,14 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 
 ## Providers
 
+### Proxy services
+
+> The proxy services and providers are not guaranteed to being geninue nor legally. Please check your country and company legal terms before using these proxy services
+
+| Name                                         | Minimal plan                                  | Trial | Usage       |
+| -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
+| [Cavoti][proxy-cavoti-ref]                   | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
+
 ### Subscriptions
 
 | Name                                                      | Minimal plan                                                  | Trial        | Usage                 |
@@ -219,6 +227,7 @@ MIT
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
+[proxy-cavoti-ref]: https://cavoti.com/register?aff=K6XBNP53XWY9
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
