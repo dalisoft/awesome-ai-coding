@@ -53,6 +53,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
 | [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
 | [ccapi][proxy-ccapi-ref]                     | [Pricing][proxy-cavoti-ref] (<= 93% off)      | -     | -           |
+| [CCode](https://www.ccode.dev)               | [Pricing](https://www.ccode.dev) (<= 88% off) | -     | -           |
 
 ### Subscriptions
 
