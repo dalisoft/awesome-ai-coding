@@ -51,6 +51,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
 | [Cavoti][proxy-cavoti-ref]                   | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
 | [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
+| [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
 
 ### Subscriptions
 
@@ -228,6 +229,7 @@ MIT
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
+[proxy-aerolink-ref]: https://aerolink.lat/register?ref=ITZKKUI
 [proxy-cavoti-ref]: https://cavoti.com/register?aff=K6XBNP53XWY9
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
