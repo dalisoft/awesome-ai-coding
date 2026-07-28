@@ -58,6 +58,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Code0][proxy-code0-ref]                     | [Pricing][proxy-code0-ref] (<= 65% off)       | -     | -           |
 | [ClaudeAPI][proxy-claudeapi-ref]             | [Pricing][proxy-claudeapi-ref] (<= 20% off)   | -     | -           |
 | [B AI](https://b.ai)                         | [Pricing](https://b.ai) (<= unknown)          | -     | -           |
+| [VisionCoder](https://coder.visioncoder.cn)  | -                                             | -     | -           |
 
 ### Subscriptions
 
