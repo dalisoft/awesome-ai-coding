@@ -54,6 +54,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
 | [ccapi][proxy-ccapi-ref]                     | [Pricing][proxy-cavoti-ref] (<= 93% off)      | -     | -           |
 | [CCode](https://www.ccode.dev)               | [Pricing](https://www.ccode.dev) (<= 88% off) | -     | -           |
+| [Packy][proxy-packy-ref]                     | [Pricing][proxy-packy-ref] (<= 71% off)       | -     | -           |
 
 ### Subscriptions
 
@@ -234,6 +235,7 @@ MIT
 [proxy-aerolink-ref]: https://aerolink.lat/register?ref=ITZKKUI
 [proxy-cavoti-ref]: https://cavoti.com/register?aff=K6XBNP53XWY9
 [proxy-ccapi-ref]: https://ccapi.us/register?aff=wnpz7zef
+[proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
