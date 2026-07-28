@@ -56,6 +56,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [CCode](https://www.ccode.dev)               | [Pricing](https://www.ccode.dev) (<= 88% off) | -     | -           |
 | [Packy][proxy-packy-ref]                     | [Pricing][proxy-packy-ref] (<= 71% off)       | -     | -           |
 | [Code0][proxy-code0-ref]                     | [Pricing][proxy-code0-ref] (<= 65% off)       | -     | -           |
+| [ClaudeAPI][proxy-claudeapi-ref]             | [Pricing][proxy-claudeapi-ref] (<= 20% off)   | -     | -           |
 
 ### Subscriptions
 
@@ -238,6 +239,7 @@ MIT
 [proxy-ccapi-ref]: https://ccapi.us/register?aff=wnpz7zef
 [proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
 [proxy-code0-ref]: https://console.code0.ai/register?aff=WkDx
+[proxy-claudeapi-ref]: https://console.claudeapi.com/register?aff=Lnhb
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
