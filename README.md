@@ -241,9 +241,9 @@ MIT
 [proxy-aerolink-ref]: https://aerolink.lat/register?ref=ITZKKUI
 [proxy-cavoti-ref]: https://cavoti.com/register?aff=K6XBNP53XWY9
 [proxy-ccapi-ref]: https://ccapi.us/register?aff=wnpz7zef
-[proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
-[proxy-code0-ref]: https://console.code0.ai/register?aff=WkDx
 [proxy-claudeapi-ref]: https://console.claudeapi.com/register?aff=Lnhb
+[proxy-code0-ref]: https://console.code0.ai/register?aff=WkDx
+[proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
 [qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
 [replit-ref]: https://replit.com/refer/dalisoft
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
