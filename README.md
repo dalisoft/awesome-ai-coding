@@ -250,3 +250,7 @@ MIT
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
 [xiaomi-ref]: https://platform.xiaomimimo.com?ref=UZWW8Z
 [z-ai-ref]: https://z.ai/subscribe?ic=WYG1DQWSMW
+
+### AI Fashion Design
+
+- **[STIL.AI](https://tools.gracestack.se/designa-klader.html)** — Generate unique AI fashion designs from text descriptions. GPT Image 2, 9 kr per design (Klarna), free API access.
