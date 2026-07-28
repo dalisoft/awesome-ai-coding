@@ -50,6 +50,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | Name                                         | Minimal plan                                  | Trial | Usage       |
 | -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
 | [Cavoti][proxy-cavoti-ref]                   | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
+| [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
 
 ### Subscriptions
 
