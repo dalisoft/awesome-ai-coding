@@ -84,6 +84,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                                                                         | -            | 135 msg / 5-hr        |
 | [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                                                               | -            | 24 M. Tokens / day    |
 | [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                                                                          | -            | <= 90,000 req / month |
+| [Zyloo](https://zyloo.io)                                 | [PRO](https://zyloo.io/subscription) (76 \$/m)                                                              | -            | -                     |
 
 ### Intelligent Model Router
 
