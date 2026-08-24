@@ -220,6 +220,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | ax                  | <https://github.com/Necmttn/ax>                 |
 | codex-profiles      | <https://github.com/Ducksss/codex-profiles>     |
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
+| sillage             | <https://github.com/MarlBurroW/sillage>         |
 
 ---
 
