@@ -77,7 +77,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [GLM Coding][z-ai-ref]                                    | [Lite][z-ai-ref] (18 \$/m)                                                                                  | -            | =< 120 prompts / 5-hr |
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)                                                      | 50% bonus    | Tokens                |
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m)                                               | -            | -                     |
-| [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    |  ?           | $20 value             |
+| [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    | ?            | $20 value             |
 | [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                                                                 | -            | <= 30 prompts / 5-hr  |
 | [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                                                               | -            | <= 100 prompts / 5-hr |
 | [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m)                                               | Free plan    | <= 100 prompts / 5-hr |
@@ -100,6 +100,20 @@ This method known as: Auto-switch, Auto Router
 | [OpenRouter Auto](https://openrouter.ai/openrouter/auto)            | Platform Fee | -     | -                           |
 | [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
 | [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
+
+### Fusion Model Router
+
+This method known as: Fusion, Smart Router.
+
+How it works: it asks Advisor (smart) model for hard question or planning
+while executes with Build (cheap) model.
+
+| Name                                                         | Fee          | Trial | Tied to                                   |
+| ------------------------------------------------------------ | ------------ | ----- | ----------------------------------------- |
+| [Anthropic Advisor](https://code.claude.com/docs/en/advisor) | Model fee    | -     | [Claude API](https://platform.claude.com) |
+| [Devin Fusion](https://cognition.com/blog/devin-fusion)      | 0%           | -     | [Devin CLI](https://devin.ai/cli)         |
+| [OpenRouter Fusion](https://openrouter.ai/openrouter/fusion) | Platform Fee | -     | -                                         |
+| [Sakana Fugu](https://sakana.ai/fugu)                        | Fixed rate   | -     |                                           |
 
 ### Tokens
 
