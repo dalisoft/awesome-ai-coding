@@ -80,8 +80,9 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Alibaba Token Plan][alibaba-token-ref]                   | [Lite][alibaba-token-ref] (8 \$/m)                                                                          | 2$ off       | -                     |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                                                                | -            | -                     |
 | [Chutes](https://chutes.ai)                               | [Plus](https://chutes.ai/pricing) (10 \$/m)                                                                 | -            | 300 msg / day         |
+| [CommandCode GOAT](https://commandcode.ai)                | [GOAT](https://commandcode.ai/pricing) (10 \$/m)                                                            | -            | $70 usage             |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                                                                            | -            | =< 100 prompts / 5-hr |
-| [OpenCode Go][opencode-ref]                               | 10 \$/m                                                                                                     | 50% discount | $60 usage             |
+| [OpenCode Go][opencode-ref]                               | [Go][opencode-ref] (10 \$/m)                                                                                | -            | $60 usage             |
 | [Cline Pass](https://cline.bot/cline-pass)                | 10 \$/m                                                                                                     | 50% discount | -                     |
 | [GMICloud](https://www.gmicloud.ai)                       | [Lite](https://www.gmicloud.ai/en/blog/kimi-k3-is-day-0-coming-to-gmi-and-its-in-our-coding-plan) (10 \$/m) |              |                       |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)                                                          | -            | up-to 15B models      |
@@ -90,9 +91,10 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)                                                      | 50% bonus    | Tokens                |
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m)                                               | -            | -                     |
 | [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    | ?            | $20 value             |
-| [Claude Code](https://claude.com)                         | [Pro](https://claude.com/pricing) (20 \$/m)                                                                 | -            | <= 30 prompts / 5-hr  |
 | [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                                                               | -            | <= 100 prompts / 5-hr |
+| [Claude Code][claude-ref]                                 | [Pro][claude-ref] (20 \$/m)                                                                                 | -            | <= 30 prompts / 5-hr  |
 | [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m)                                               | Free plan    | <= 100 prompts / 5-hr |
+| [Nous Portal](https://portal.nousresearch.com)            | [PLUS](https://portal.nousresearch.com) (20 \$/m)                                                           | -            | $22 usage             |
 | [Ollama Cloud](https://ollama.com/pricing)                | [Pro](https://ollama.com/pricing) (20 \$/m)                                                                 | -            | -                     |
 | [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                                                                         | -            | 135 msg / 5-hr        |
 | [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                                                               | -            | 24 M. Tokens / day    |
@@ -165,7 +167,7 @@ List of AI-powered coding plugins and extensions. See [feature matrix](./FEATURE
 | [Roo-Code](https://github.com/RooVetGit/Roo-Code)     | BYOK or [see providers](#providers)                                                       | Tokens               | -         | -         | Yes         |
 | [amp](https://ampcode.com)                            | [Pricing](https://ampcode.com/manual#pricing)                                             | Tokens               | $10/day   | Yes       | No          |
 | [TabNine](https://www.tabnine.com)                    | [Dev](https://www.tabnine.com/pricing) (9 \$/m)                                           | Subscription         | 14-day    | Yes       | No          |
-| [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                | Subscription         | 30-day    | Yes       | Yes         |
+| [GitHub Copilot](https://github.com/features/copilot) | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                | Tokens               | 30-day    | Yes       | Yes         |
 | [Amazon Q](https://aws.amazon.com/q/developer)        | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                               | Subscription         | No        | Yes       | No          |
 | [Droid](https://factory.ai)                           | BYOK or [Pro](https://factory.ai/pricing) (20 \$/m) or [see providers](#providers)        | Tokens               | No        | Yes       | No          |
 | [Continue.dev AI](https://continue.dev)               | BYOK or [Solo](https://hub.continue.dev/pricing) (20 \$/m) or [see providers](#providers) | Tokens, Subscription | -         | -         | Yes         |
@@ -210,7 +212,6 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | [Atomic Agent](https://atomicagent.io)                    | BYOK                                                                                         | Tokens               | -                     | -         | Yes       | Yes         |
 | [amp](https://ampcode.com)                                | [Pricing](https://ampcode.com/manual#pricing)                                                | Tokens               | -                     | No        | Yes       | No          |
 | [Cline](https://docs.cline.bot/cline-cli/overview)        | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
-| [CommandCode](https://commandcode.ai)                     | [Go](https://commandcode.ai/pricing)                                                         | Tokens, Subscription | $10 value             | -         | No        | No          |
 | [crush](https://github.com/charmbracelet/crush)           | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
 | [Forge Code](https://forgecode.dev)                       | [See providers](#providers)                                                                  | Tokens               | -                     | -         | -         | Partial     |
 | [Grok](https://grokcli.io)                                | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
@@ -224,12 +225,13 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | [Pi](https://pi.dev)                                      | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
 | [Qwen Code](https://github.com/QwenLM/qwen-code)          | Free or [see providers](#providers)                                                          | Subscription         | 2,000 req / day       | -         | Yes       | Yes         |
 | [YYLO](https://github.com/yylo-dev/yylo)                  | Free                                                                                         | -                    | -                     | -         | Yes       | Yes         |
-| [GitHub Copilot](https://github.com/features/copilot)     | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                   | Subscription         | -                     | 30-days   | Yes       | No          |
+| [CommandCode](https://commandcode.ai)                     | [Go](https://commandcode.ai/pricing) (1 \$/m)                                                | Tokens               | $10 value             | -         | No        | No          |
+| [GitHub Copilot](https://github.com/features/copilot)     | [Pro](https://github.com/features/copilot/plans) (10 \$/m)                                   | Tokens               | -                     | 30-days   | Yes       | No          |
 | [warp Code](https://www.warp.dev)                         | [Pro](https://www.warp.dev/pricing) (15 \$/m)                                                | Subscription         | =< 2,500 req / month  | No        | No        | No          |
 | [Amazon Q](https://aws.amazon.com/q/developer)            | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                                  | Subscription         | -                     | No        | Yes       | No          |
 | [Kimi Code](https://www.kimi.com/code)                    | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) or [see providers](#providers) | Subscription         | ?                     | -         | Yes       | No          |
 | [Cursor](https://cursor.com/cli)                          | [Pro](https://www.cursor.com/pricing) (20 \$/m)                                              | Tokens               | 200 req / month       | 2-week    | Yes       | No          |
-| [Claude Code](https://github.com/anthropics/claude-code)  | BYOK or [Pro](https://www.anthropic.com/pricing) (20 \$/m) or [see providers](#providers)    | Tokens, Subscription | =< 220K tokens / 5-hr | No        | No        | No          |
+| [Claude Code][claude-ref]                                 | BYOK or [Pro][claude-ref] (20 \$/m) or [see providers](#providers)                           | Tokens, Subscription | =< 220K tokens / 5-hr | No        | No        | No          |
 | [Codex](https://github.com/openai/codex)                  | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m)                                 | Tokens, Subscription | 80 req / 3-hour       | No        | No        | Yes         |
 | [Droid](https://factory.ai)                               | BYOK or [Pro](https://factory.ai/pricing) (20 \$/m) or [see providers](#providers)           | Tokens               | 20M tokens / month    | No        | Yes       | No          |
 | [Qoder][qoder-ref]                                        | Pro (20 \$/m)                                                                                | Subscription         | -                     | Beta      | Beta      | No          |
@@ -266,6 +268,7 @@ MIT
 
 [alibaba-cloud-ref]: https://www.alibabacloud.com/campaign/ai-scene-coding?referral_code=A924PN
 [alibaba-token-ref]: https://www.alibabacloud.com/en/campaign/ai-landing-page-token?referral_code=A924PN
+[claude-ref]: https://claude.ai/referral/W6Wu0V7qvA
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
