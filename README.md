@@ -1,6 +1,7 @@
 # awesome-ai-coding
 
-A curated list of AI-powered CLI, code editor and IDE's categorized by their usage, sorted by minimal plan price.
+A curated list of AI-powered CLI, code editor and IDE's categorized by their usage,
+sorted by minimal plan price.
 
 <a href="https://www.producthunt.com/products/awesome-ai-coding?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-awesome&#0045;ai&#0045;coding" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1008787&theme=light&t=1756027113949" alt="awesome&#0045;ai&#0045;coding - List&#0032;of&#0032;AI&#0045;powered&#0032;code&#0032;editor&#0032;and&#0032;IDE&#0039;s | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -34,6 +35,15 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 
 ## Contents
 
+### Providers navigation
+
+- [Proxy services](#proxy-services)
+- [Subscriptions](#subscriptions)
+- [Intelligent Model Routers](#intelligent-model-routers)
+- [Fusion Model Routers](#fusion-model-routers)
+
+### Tools navigation
+
 - [IDE & Editors](#ide--editors)
 - [Extensions](#extensions)
 - [SaaS](#saas--web-app)
@@ -45,7 +55,8 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 
 ### Proxy services
 
-> The proxy services and providers are not guaranteed to being geninue nor legally. Please check your country and company legal terms before using these proxy services
+> The proxy services and providers are not guaranteed to being geninue nor legally.
+> Please check your country and company legal terms before using these proxy services
 
 | Name                                         | Minimal plan                                  | Trial | Usage       |
 | -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
@@ -87,7 +98,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                                                                          | -            | <= 90,000 req / month |
 | [Zyloo](https://zyloo.io)                                 | [PRO](https://zyloo.io/subscription) (76 \$/m)                                                              | -            | -                     |
 
-### Intelligent Model Router
+### Intelligent Model Routers
 
 This method known as: Auto-switch, Auto Router
 
@@ -101,7 +112,7 @@ This method known as: Auto-switch, Auto Router
 | [Orca Router](https://www.orcarouter.ai/solutions/adaptive-routing) | 0%           | -     | -                           |
 | [Weave Router](https://github.com/workweave/router)                 | -            | -     | -                           |
 
-### Fusion Model Router
+### Fusion Model Routers
 
 This method known as: Fusion, Smart Router.
 
