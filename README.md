@@ -41,6 +41,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 - [Subscriptions](#subscriptions)
 - [Intelligent Model Routers](#intelligent-model-routers)
 - [Fusion Model Routers](#fusion-model-routers)
+- [Tokens](https://github.com/dalisoft/awesome-hosting?tab=readme-ov-file#tokens) `[E]`
 
 ### Tools navigation
 
