@@ -82,7 +82,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Chutes](https://chutes.ai)                               | [Plus](https://chutes.ai/pricing) (10 \$/m)                                                                 | -            | 300 msg / day         |
 | [CommandCode GOAT](https://commandcode.ai)                | [GOAT](https://commandcode.ai/pricing) (10 \$/m)                                                            | -            | $70 usage             |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                                                                            | -            | =< 100 prompts / 5-hr |
-| [OpenCode Go][opencode-ref]                               | [Go][opencode-ref] (10 \$/m)                                                                                | -            | $60 usage             |
+| [OpenCode Go][opencode-ref]                               | [Go][opencode-ref] (10 \$/m)                                                                                | $5 credit    | $60 usage             |
 | [Cline Pass](https://cline.bot/cline-pass)                | 10 \$/m                                                                                                     | 50% discount | -                     |
 | [GMICloud](https://www.gmicloud.ai)                       | [Lite](https://www.gmicloud.ai/en/blog/kimi-k3-is-day-0-coming-to-gmi-and-its-in-our-coding-plan) (10 \$/m) |              |                       |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)                                                          | -            | up-to 15B models      |
@@ -92,7 +92,7 @@ Donations to project with credits on LLM/AI inferences or such bonuses from prov
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m)                                               | -            | -                     |
 | [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    | ?            | $20 value             |
 | [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                                                               | -            | <= 100 prompts / 5-hr |
-| [Claude Code][claude-ref]                                 | [Pro][claude-ref] (20 \$/m)                                                                                 | -            | <= 30 prompts / 5-hr  |
+| [Claude Code][claude-ref]                                 | [Pro][claude-ref] (20 \$/m)                                                                                 | 1-week free  | <= 30 prompts / 5-hr  |
 | [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m)                                               | Free plan    | <= 100 prompts / 5-hr |
 | [Nous Portal](https://portal.nousresearch.com)            | [PLUS](https://portal.nousresearch.com) (20 \$/m)                                                           | -            | $22 usage             |
 | [Ollama Cloud](https://ollama.com/pricing)                | [Pro](https://ollama.com/pricing) (20 \$/m)                                                                 | -            | -                     |
