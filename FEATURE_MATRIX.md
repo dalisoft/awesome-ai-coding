@@ -4,53 +4,53 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 
 ## CLI Agents
 
-| Features           | Claude Code               | OpenCode    | Codex                                          | Droid                 |
-| ------------------ | ------------------------- | ----------- | ---------------------------------------------- | --------------------- |
-| Performance        | Medium                    | Fast        | Slow                                           | Medium                |
-| Debug agent        | Yes                       | No          | No                                             | No                    |
-| Extensions         | VSCode, JetBrains         | -           | VSCode, JetBrains                              | -                     |
-| IDE Integration    | VSCode                    | VSCode      | VSCode, Zed                                    | VSCode, Zed           |
-| Source code        | Closed                    | FOSS        | FOSS                                           | Closed                |
-| &nbsp;             |                           |             |                                                |                       |
-| **Mode**           |                           |             |                                                |                       |
-| Orchestrator mode  | No                        | No          | No                                             | No                    |
-| Plan mode          | Yes                       | Yes         | Yes                                            | Yes                   |
-| Act mode           | Yes                       | Yes         | Yes                                            | Yes                   |
-| Ask mode           | Yes                       | Partial     | Partial                                        | Partial               |
-| Chat mode          | _Plan mode_               | _Plan mode_ | _Read-only_                                    | _Plan mode_           |
-| To-Do Prepare      | Yes                       | No          | No                                             | Yes                   |
-| Ralph / METR       | No                        | No          | [`/goal`][codg]                                | [`/missions`][dromis] |
-| &nbsp;             |                           |             |                                                |                       |
-| **MCP**            | Yes                       | Yes         | Yes                                            | Yes                   |
-| MCP Lazy/Search    | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> | Yes [1][drodce]       |
-| &nbsp;             |                           |             |                                                |                       |
-| **Tools**          |                           |             |                                                |                       |
-| Web search         | Yes                       | No          | Yes                                            | Yes                   |
-| Web fetch          | Yes                       | Yes         | Yes                                            | Yes                   |
-| Tool search        | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> | Yes [1][drodce]       |
-| Advisor            | _A/B_ <sup>[1][cc2]</sup> | No          | No                                             | No                    |
-| Parallel calling   | Yes <sup>[1][cc3]</sup>   | Yes ?       | Yes                                            | No                    |
-| &nbsp;             |                           |             |                                                |                       |
-| **Skills**         | Yes                       | Yes         | Yes                                            | Yes                   |
-| Skills Lazy/Search | Yes                       | Yes         | Yes                                            | Yes                   |
-| Skills Commands    | Yes                       | No          | No                                             | No                    |
-| `.agents` Unified  | No                        | Yes         | Yes                                            | No                    |
-| &nbsp;             |                           |             |                                                |                       |
-| **Features**       |                           |             |                                                |                       |
-| `AGENTS.md`        | `CLAUDE.md`               | Yes         | Yes                                            | Yes                   |
-| Plugins            | Yes                       | Yes         | Yes                                            | Yes                   |
-| Hooks              | Yes                       | No          | Yes                                            | Yes                   |
-| LSP                | Yes                       | Yes         | Yes                                            | No                    |
-| Hierarchical Tree  | Yes                       | No          | No                                             | No                    |
-| Subagents          | Yes                       | No          | Yes                                            | No                    |
-| Swarm/Teams        | Yes                       | No          | Yes                                            | No                    |
-| Steer Chat         | No                        | No          | Yes                                            | No                    |
-| &nbsp;             |                           |             |                                                |                       |
-| **Customization**  |                           |             |                                                |                       |
-| Custom models      | Partial                   | Yes         | Partial                                        | Partial               |
-| BYOK               | Vendor                    | Yes         | Vendor                                         | Yes                   |
-| **Security**       |                           |             |                                                |                       |
-| Sandbox            | Yes                       | No          | Yes                                            | No                    |
+| Features           | Claude Code               | OpenCode    | Codex                                          |
+| ------------------ | ------------------------- | ----------- | ---------------------------------------------- |
+| Performance        | Medium                    | Fast        | Slow                                           |
+| Debug agent        | Yes                       | No          | No                                             |
+| Extensions         | VSCode, JetBrains         | -           | VSCode, JetBrains                              |
+| IDE Integration    | VSCode                    | VSCode      | VSCode, Zed                                    |
+| Source code        | Closed                    | FOSS        | FOSS                                           |
+| &nbsp;             |                           |             |                                                |
+| **Mode**           |                           |             |                                                |
+| Orchestrator mode  | No                        | No          | No                                             |
+| Plan mode          | Yes                       | Yes         | Yes                                            |
+| Act mode           | Yes                       | Yes         | Yes                                            |
+| Ask mode           | Yes                       | Partial     | Partial                                        |
+| Chat mode          | _Plan mode_               | _Plan mode_ | _Read-only_                                    |
+| To-Do Prepare      | Yes                       | No          | No                                             |
+| Ralph / METR       | No                        | No          | [`/goal`][codg]                                |
+| &nbsp;             |                           |             |                                                |
+| **MCP**            | Yes                       | Yes         | Yes                                            |
+| MCP Lazy/Search    | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> |
+| &nbsp;             |                           |             |                                                |
+| **Tools**          |                           |             |                                                |
+| Web search         | Yes                       | No          | Yes                                            |
+| Web fetch          | Yes                       | Yes         | Yes                                            |
+| Tool search        | Yes <sup>[1][cc1]</sup>   | No          | Yes <sup>[1][cod1], [2][cod2], [3][cod3]</sup> |
+| Advisor            | _A/B_ <sup>[1][cc2]</sup> | No          | No                                             |
+| Parallel calling   | Yes <sup>[1][cc3]</sup>   | Yes ?       | Yes                                            |
+| &nbsp;             |                           |             |                                                |
+| **Skills**         | Yes                       | Yes         | Yes                                            |
+| Skills Lazy/Search | Yes                       | Yes         | Yes                                            |
+| Skills Commands    | Yes                       | No          | No                                             |
+| `.agents` Unified  | No                        | Yes         | Yes                                            |
+| &nbsp;             |                           |             |                                                |
+| **Features**       |                           |             |                                                |
+| `AGENTS.md`        | `CLAUDE.md`               | Yes         | Yes                                            |
+| Plugins            | Yes                       | Yes         | Yes                                            |
+| Hooks              | Yes                       | No          | Yes                                            |
+| LSP                | Yes                       | Yes         | Yes                                            |
+| Hierarchical Tree  | Yes                       | No          | No                                             |
+| Subagents          | Yes                       | No          | Yes                                            |
+| Swarm/Teams        | Yes                       | No          | Yes                                            |
+| Steer Chat         | No                        | No          | Yes                                            |
+| &nbsp;             |                           |             |                                                |
+| **Customization**  |                           |             |                                                |
+| Custom models      | Partial                   | Yes         | Partial                                        |
+| BYOK               | Vendor                    | Yes         | Vendor                                         |
+| **Security**       |                           |             |                                                |
+| Sandbox            | Yes                       | No          | Yes                                            |
 
 ## Extensions
 
@@ -104,5 +104,3 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 [cod2]: https://github.com/openai/codex/pull/10657
 [cod3]: https://www.reddit.com/r/codex/comments/1t10am2/codex_features_list_which_are_disabled_under
 [codg]: https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex
-[drodce]: https://factory.ai/news/deferred-context-engine
-[dromis]: https://factory.ai/news/missions
