@@ -25,7 +25,6 @@ thank you Alibaba Qwen team**_
 | --------------------------------------------- | ---------------- | -------- |
 | [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | Platinum |
 | [KiloCode](https://kilo.ai)                   | Previous sponsor | Silver   |
-| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | Basic    |
 
 ## Status
 
