@@ -16,13 +16,16 @@ sorted by minimal plan price.
 
 Donations to project with credits on LLM/AI inferences or such bonuses from providers.
 
+_**This project and project author [Qwen Ambassador](https://qwen.ai/ambassador) member.
+thank you Alibaba Qwen team**_
+
 > There amount are not real money, it is credits within sponsor platform.
 
-| Name                                          | Status           | Amount |
-| --------------------------------------------- | ---------------- | ------ |
-| [KiloCode](https://kilo.ai)                   | Previous sponsor | $100+  |
-| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | $20+   |
-| [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | $100+  |
+| Name                                          | Status           | Tier     |
+| --------------------------------------------- | ---------------- | -------- |
+| [Qwen Ambassador](https://qwen.ai/ambassador) | Active           | Platinum |
+| [KiloCode](https://kilo.ai)                   | Previous sponsor | Silver   |
+| [nahcrof](https://ai.nahcrof.com)             | Previous sponsor | Basic    |
 
 ## Status
 
@@ -209,11 +212,12 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | Name                                                      | Minimal plan                                                                                 | Usage                | Limits                | Trial     | Free plan | Open Source |
 | --------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------- | --------------------- | --------- | --------- | ----------- |
 | [Aider](https://aider.chat)                               | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
-| [Atomic Agent](https://atomicagent.io)                    | BYOK                                                                                         | Tokens               | -                     | -         | Yes       | Yes         |
 | [amp](https://ampcode.com)                                | [Pricing](https://ampcode.com/manual#pricing)                                                | Tokens               | -                     | No        | Yes       | No          |
+| [Atomic Agent](https://atomicagent.io)                    | BYOK                                                                                         | Tokens               | -                     | -         | Yes       | Yes         |
 | [Cline](https://docs.cline.bot/cline-cli/overview)        | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
 | [crush](https://github.com/charmbracelet/crush)           | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
 | [Forge Code](https://forgecode.dev)                       | [See providers](#providers)                                                                  | Tokens               | -                     | -         | -         | Partial     |
+| [Freebuff][freebuff-ref]                                  | Free                                                                                         | Tokens               | $25+                  | -         | Yes       | -           |
 | [Grok](https://grokcli.io)                                | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
 | [Hermes](https://hermes-agent.nousresearch.com)           | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
 | [Kilo-Code](https://kilo.ai)                              | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | $2 credit | -         | Yes         |
@@ -269,6 +273,7 @@ MIT
 [alibaba-cloud-ref]: https://www.alibabacloud.com/campaign/ai-scene-coding?referral_code=A924PN
 [alibaba-token-ref]: https://www.alibabacloud.com/en/campaign/ai-landing-page-token?referral_code=A924PN
 [claude-ref]: https://claude.ai/referral/W6Wu0V7qvA
+[freebuff-ref]: https://freebuff.com/?ref=ref-f7917691-dbc6-42ff-bf6d-20cad49ba057
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
 [opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
