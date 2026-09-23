@@ -186,6 +186,9 @@ List of AI-powered cloud-based developer tools.
 | Name                                        | Minimal plan                                             | Trial         | Free plan | Open Source | Stack      |
 | ------------------------------------------- | -------------------------------------------------------- | ------------- | --------- | ----------- | ---------- |
 | [Firebase Studio](https://firebase.studio/) | -                                                        | No            | Yes       | No          | Full       |
+| [DeployReview](https://poe.com/DeployReview) | Free | - | Yes | No | Code review |
+| [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) | Free | - | Yes | No | Code review |
+| [LLMAuditor](https://poe.com/LLMAuditor) | Free | - | Yes | No | Prompt audit |
 | [Bolt.diy](https://bolt.diy)                | BYOK                                                     | -             | -         | No          | Full-stack |
 | [Softgen](https://softgen.ai)               | BYOK with [Annual](https://softgen.ai/pricing) (33 \$/y) | No            | No        | No          | Full-stack |
 | [Webcrumbs](https://www.webcrumbs.org)      | BYOK                                                     | -             | -         | Yes         | Frontend   |
