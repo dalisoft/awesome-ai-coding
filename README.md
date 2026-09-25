@@ -254,6 +254,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | codex-profiles      | <https://github.com/Ducksss/codex-profiles>     |
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
 | sillage             | <https://github.com/MarlBurroW/sillage>         |
+| toldya              | <https://github.com/singhlabsdev/toldya>        |
 
 ---
 
