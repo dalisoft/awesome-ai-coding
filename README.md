@@ -255,6 +255,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
 | orcareplay         | <https://github.com/Continuum-AI-Corp/OrcaReplay> |
 | sillage             | <https://github.com/MarlBurroW/sillage>         |
+| toldya              | <https://github.com/singhlabsdev/toldya>        |
 
 ---
 
