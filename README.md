@@ -93,6 +93,7 @@ thank you Alibaba Qwen team**_
 | [Kilo Pass](https://kilo.ai/features/kilo-pass)           | [Starter](https://kilo.ai/features/kilo-pass)(19 \$/m)                                                      | 50% bonus    | Tokens                |
 | [Kimi Coding](https://www.kimi.com)                       | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m)                                               | -            | -                     |
 | [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    | ?            | $20 value             |
+| [APIClaw](https://apiclaw.biz)                            | [Plus](https://apiclaw.biz/#pricing) (19 \$/m)                                                              | 50 req free  | 500 req / day         |
 | [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                                                               | -            | <= 100 prompts / 5-hr |
 | [Claude Code][claude-ref]                                 | [Pro][claude-ref] (20 \$/m)                                                                                 | 1-week free  | <= 30 prompts / 5-hr  |
 | [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m)                                               | Free plan    | <= 100 prompts / 5-hr |
