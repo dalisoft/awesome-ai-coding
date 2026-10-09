@@ -258,6 +258,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | CodeOtter           | <https://github.com/dharmeshgurnani/CodeOtter>  |
 | codex-profiles      | <https://github.com/Ducksss/codex-profiles>     |
 | coven               | <https://github.com/OpenCoven/coven>            |
+| Helicon             | <https://github.com/HarjjotSinghh/helicon>      |
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
 | orcareplay         | <https://github.com/Continuum-AI-Corp/OrcaReplay> |
 | sillage             | <https://github.com/MarlBurroW/sillage>         |
