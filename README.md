@@ -263,6 +263,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | orcareplay         | <https://github.com/Continuum-AI-Corp/OrcaReplay> |
 | show-your-work      | <https://github.com/iamumeransari/claude-show-your-work> |
 | sillage             | <https://github.com/MarlBurroW/sillage>         |
+| subagent-tuner      | <https://github.com/Kruhlikau/subagent-tuner>   |
 | toldya              | <https://github.com/singhlabsdev/toldya>        |
 
 ---
