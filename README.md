@@ -254,6 +254,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | ------------------- | ----------------------------------------------- |
 | agent-manager       | <https://github.com/YoanWai/agent-manager>      |
 | agenttrace          | <https://github.com/luoyuctl/agenttrace>        |
+| Aident Loadout      | <https://aident.ai>                             |
 | aisw                | <https://github.com/burakdede/aisw>             |
 | ax                  | <https://github.com/Necmttn/ax>                 |
 | CodeOtter           | <https://github.com/dharmeshgurnani/CodeOtter>  |
