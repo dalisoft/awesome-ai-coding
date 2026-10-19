@@ -270,6 +270,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | Sqwakie             | <https://sqwakie.si>                            |
 | subagent-tuner      | <https://github.com/Kruhlikau/subagent-tuner>   |
 | toldya              | <https://github.com/singhlabsdev/toldya>        |
+| yylo-benchmark      | <https://github.com/yylo-dev/yylo-benchmark>    |
 
 ---
 
