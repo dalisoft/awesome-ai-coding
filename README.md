@@ -199,6 +199,7 @@ List of AI-powered cloud-based developer tools.
 | [VibeKit](https://vibekit.bot)              | BYOK or [Builder](https://vibekit.bot/pricing) (20 \$/m) | No            | Yes       | No          | Full-stack |
 | [replit Agent][replit-ref]                  | Pro (20 \$/m)                                            | No            | Yes       | No          | Full-stack |
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No            | No        | No          | Frontend   |
+| [Orbi](https://orbi.build/?ref=dir-dalisoft) | [Solo](https://orbi.build/cloud/) (24 \$/m yearly)       | 3 merged deliveries | No        | Yes         | Full       |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No            | Yes       | No          | Frontend   |
 | [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No            | Yes       | No          | Full-stack |
 | [Builder](https://builder.io)               | [Pro](https://www.builder.io/m/pricing) (30 \$/m)        | No            | Yes       | No          | Frontend   |
