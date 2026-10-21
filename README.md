@@ -281,6 +281,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 - <https://github.com/ianwieds/awesome-ai-agents>
 - <https://github.com/inmve/free-ai-coding>
 - <https://whichaiplan.dev>
+- <https://github.com/elirankotzero/ai-coding-rules-sampler> - Free MIT rules and skills (plan-first, review, decision log, security) for Claude Code, Cursor, Codex and Windsurf
 
 ---
 
