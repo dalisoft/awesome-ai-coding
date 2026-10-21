@@ -278,8 +278,9 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 
 ## Resources
 
+- <https://github.com/ianwieds/awesome-ai-agents>
 - <https://github.com/inmve/free-ai-coding>
-- <https://whichaiplan.dev> - pricing comparison of AI coding subscriptions, updated weekly
+- <https://whichaiplan.dev>
 
 ---
 
