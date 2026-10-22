@@ -201,6 +201,7 @@ List of AI-powered cloud-based developer tools.
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No            | No        | No          | Frontend   |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No            | Yes       | No          | Frontend   |
 | [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No            | Yes       | No          | Full-stack |
+| [Orbi](https://orbi.build/)                 | [Solo](https://orbi.build/cloud/) (29 \$/m)              | 3 merged free | No        | Yes         | Full-stack |
 | [Builder](https://builder.io)               | [Pro](https://www.builder.io/m/pricing) (30 \$/m)        | No            | Yes       | No          | Frontend   |
 
 ---
