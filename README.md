@@ -262,6 +262,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | codex-profiles      | <https://github.com/Ducksss/codex-profiles>     |
 | contexttax          | <https://github.com/henrikdukefoss/contexttax>  |
 | coven               | <https://github.com/OpenCoven/coven>            |
+| deed.page           | <https://github.com/f-o-x11/deed-page-skill>    |
 | Frink               | <https://github.com/benord-labs/frink>          |
 | Helicon             | <https://github.com/HarjjotSinghh/helicon>      |
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
