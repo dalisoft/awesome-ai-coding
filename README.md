@@ -276,6 +276,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | sillage             | <https://github.com/MarlBurroW/sillage>         |
 | Sqwakie             | <https://sqwakie.si>                            |
 | subagent-tuner      | <https://github.com/Kruhlikau/subagent-tuner>   |
+| Tavero              | <https://github.com/baccaraaa/tavero>           |
 | toldya              | <https://github.com/singhlabsdev/toldya>        |
 | Yap MCP             | <https://github.com/founden-bot/yap-mcp>        |
 | yylo-benchmark      | <https://github.com/yylo-dev/yylo-benchmark>    |
