@@ -148,6 +148,7 @@ List of AI-powered IDEs and code editors.
 | [FlexPilot AI](https://flexpilot.ai)       | BYOK                                            | Tokens       | -      | -         | Yes         |
 | [humanlayer](https://www.humanlayer.dev)   | BYOK                                            | Tokens       | -      | -         | Yes         |
 | [VoidEditor](https://voideditor.com)       | BYOK                                            | Tokens       | -      | -         | Yes         |
+| [Volt](https://github.com/LeulAria/volt)   | BYOK                                            | Tokens       | -      | -         | Yes         |
 | [Trae AI](https://trae.ai)                 | [Pro](https://www.trae.ai/pricing) (10 \$/m)    | Subscription | 3 \$/m | Yes       | No          |
 | [Zed](https://zed.dev)                     | [Pro](https://zed.dev/pricing) (10 \$/m)        | Tokens       | 2-week | Yes       | Yes         |
 | [PearAI](https://trypear.ai)               | [Maker](https://trypear.ai/pricing) (15 \$/m)   | Tokens       | No     | Yes       | Yes         |
@@ -253,6 +254,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 
 | Name                | Link                                            |
 | ------------------- | ----------------------------------------------- |
+| agent-doctrine      | <https://github.com/sisig-ai/agent-doctrine> |
 | agent-manager       | <https://github.com/YoanWai/agent-manager>      |
 | agenttrace          | <https://github.com/luoyuctl/agenttrace>        |
 | Aident Loadout      | <https://aident.ai>                             |
@@ -262,9 +264,11 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | codex-profiles      | <https://github.com/Ducksss/codex-profiles>     |
 | contexttax          | <https://github.com/henrikdukefoss/contexttax>  |
 | coven               | <https://github.com/OpenCoven/coven>            |
+| deed.page           | <https://github.com/f-o-x11/deed-page-skill>    |
 | Frink               | <https://github.com/benord-labs/frink>          |
 | Helicon             | <https://github.com/HarjjotSinghh/helicon>      |
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
+| MergeJudge          | <https://mergejudge.si>                         |
 | nibbl               | <https://github.com/nuromirzak/nibbl>           |
 | orcareplay          | <https://github.com/Continuum-AI-Corp/OrcaReplay> |
 | second-brain-starter-kit | <https://github.com/tonydzi/second-brain-starter-kit> |
