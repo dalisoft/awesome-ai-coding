@@ -253,6 +253,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 
 | Name                | Link                                            |
 | ------------------- | ----------------------------------------------- |
+| agent-doctrine      | <https://github.com/sisig-ai/agent-doctrine> |
 | agent-manager       | <https://github.com/YoanWai/agent-manager>      |
 | agenttrace          | <https://github.com/luoyuctl/agenttrace>        |
 | Aident Loadout      | <https://aident.ai>                             |
