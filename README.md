@@ -271,6 +271,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | MergeJudge          | <https://mergejudge.si>                         |
 | nibbl               | <https://github.com/nuromirzak/nibbl>           |
 | orcareplay          | <https://github.com/Continuum-AI-Corp/OrcaReplay> |
+| second-brain-starter-kit | <https://github.com/tonydzi/second-brain-starter-kit> |
 | show-your-work      | <https://github.com/iamumeransari/claude-show-your-work> |
 | sillage             | <https://github.com/MarlBurroW/sillage>         |
 | Sqwakie             | <https://sqwakie.si>                            |
