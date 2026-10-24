@@ -268,6 +268,7 @@ List of AI-powered command-line tools. See [feature matrix](./FEATURE_MATRIX.md#
 | Frink               | <https://github.com/benord-labs/frink>          |
 | Helicon             | <https://github.com/HarjjotSinghh/helicon>      |
 | mcp-ai-slop-checker | <https://github.com/parweb/mcp-ai-slop-checker> |
+| MergeJudge          | <https://mergejudge.si>                         |
 | nibbl               | <https://github.com/nuromirzak/nibbl>           |
 | orcareplay          | <https://github.com/Continuum-AI-Corp/OrcaReplay> |
 | show-your-work      | <https://github.com/iamumeransari/claude-show-your-work> |
