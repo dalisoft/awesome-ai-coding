@@ -14,7 +14,7 @@ date. It is not the age of your account. If your project does not meet them yet,
 feel free to open a PR again once it does.
 
 | Section                                                                                | GitHub repo                | Minimum project repo age | Minimum project repo stars |
-| -------------------------------------------------------------------------------------- | -------------------------- | ------------------------ | -------------------------- |
+|----------------------------------------------------------------------------------------|----------------------------|--------------------------|----------------------------|
 | Tools                                                                                  | Required                   | 45 days                  | 30                         |
 | IDE & Editors                                                                          | Optional, but good to have | 60 days                  | 100                        |
 | Extensions, SaaS / Web-app, AI Agents, Coding Agents, Orchestrators, Resources         | Optional, but good to have | 60 days                  | 50                         |

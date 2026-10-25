@@ -5,7 +5,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 ## CLI Agents
 
 | Features           | Claude Code             | OpenCode    | Codex                                          | Pi        |
-| ------------------ | ----------------------- | ----------- | ---------------------------------------------- | --------- |
+|--------------------|-------------------------|-------------|------------------------------------------------|-----------|
 | Performance        | Fast                    | Fast        | Slow                                           | Fastest   |
 | Debug agent        | Yes                     | No          | No                                             | No        |
 | Extensions         | VSCode, JetBrains       | -           | VSCode, JetBrains                              | -         |
@@ -55,7 +55,7 @@ AI coding agents feature matrix. I provide to tools which i'm using daily or use
 ## Extensions
 
 | Features           | Claude Code             | Cline             | Kilo Code         | Codex                                          |
-| ------------------ | ----------------------- | ----------------- | ----------------- | ---------------------------------------------- |
+|--------------------|-------------------------|-------------------|-------------------|------------------------------------------------|
 | Performance        | Slow                    | Medium            | Medium            | Medium                                         |
 | Debug extension    | -                       | -                 | -                 | -                                              |
 | Available          | VSCode                  | VSCode, JetBrains | VSCode, JetBrains | VSCode, Zed                                    |
