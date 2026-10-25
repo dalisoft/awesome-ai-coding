@@ -1,7 +1,8 @@
 name: PR Spam Guard
 
 # Surfaces parallel-blast PR patterns to maintainers as a comment on every
-# incoming pull request. Does not auto-close — judgment stays with humans.
+# incoming pull request. Only auto-closes extreme cases (account <= 30 days old
+# with >= 30 PRs in 14 days) — everything else is left to maintainers.
 # Source: https://github.com/Zijian-Ni/awesome-ai-agents-2026
 
 on:
@@ -16,6 +17,9 @@ jobs:
   audit:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
       - name: Audit submitter
         uses: actions/github-script@v9.0.0
         with:
