@@ -46,10 +46,10 @@ export default async function prSpamGuard({ github, core, context }) {
 
   // 4. Build report
   const flags = [];
-  if (accountAgeDays < 60)
+  if (accountAgeDays <= 60)
     flags.push(`🚨 Account is only **${accountAgeDays} days old**`);
   if (user.followers === 0) flags.push(`⚠️ Account has **0 followers**`);
-  if (recentPRs.length > 8)
+  if (accountAgeDays <= 360 && recentPRs.length >= 10)
     flags.push(
       `⚠️ Submitter has **${recentPRs.length} PRs in the last 14 days**`
     );
