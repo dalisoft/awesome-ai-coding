@@ -46,17 +46,22 @@ export default async function prSpamGuard({ github, core, context }) {
 
   // 4. Build report
   const flags = [];
-  if (accountAgeDays <= 60)
+  if (accountAgeDays <= 180) {
     flags.push(`🚨 Account is only **${accountAgeDays} days old**`);
-  if (user.followers === 0) flags.push(`⚠️ Account has **0 followers**`);
-  if (accountAgeDays <= 360 && recentPRs.length >= 10)
+  }
+  if (user.followers === 0) {
+    flags.push(`⚠️ Account has **0 followers**`);
+  }
+  if (accountAgeDays <= 360 && recentPRs.length >= 10) {
     flags.push(
       `⚠️ Submitter has **${recentPRs.length} PRs in the last 14 days**`
     );
-  if (titleHits.data.items.length > 3)
+  }
+  if (titleHits.data.items.length > 3) {
     flags.push(
       `🚨 Identical title submitted to **${titleHits.data.items.length} repos** by the same author`
     );
+  }
 
   // Very new account blasting PRs: close automatically (maintainers can reopen)
   const shouldClose = accountAgeDays <= 30 && recentPRs.length >= 30;
