@@ -58,7 +58,7 @@ sorted by minimal plan price.
 
 | Name                                         | Minimal plan                                  | Trial | Usage       |
 |----------------------------------------------|-----------------------------------------------|-------|-------------|
-| [Cavoti][proxy-cavoti-ref]                   | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
+| [Cavoti][proxy-cavoti-ref] ❌                | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
 | [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
 | [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
 | [ccapi][proxy-ccapi-ref]                     | [Pricing][proxy-cavoti-ref] (<= 93% off)      | -     | -           |
@@ -79,7 +79,7 @@ sorted by minimal plan price.
 | [Chutes](https://chutes.ai)                               | [Plus](https://chutes.ai/pricing) (10 \$/m)                                                                 | -            | 300 msg / day         |
 | [CommandCode GOAT](https://commandcode.ai)                | [GOAT](https://commandcode.ai/pricing) (10 \$/m)                                                            | -            | $70 usage             |
 | [MiniMax Coding][minimax-ref]                             | [Starter][minimax-ref] (10 \$/m)                                                                            | -            | =< 100 prompts / 5-hr |
-| [OpenCode Go][opencode-ref]                               | [Go][opencode-ref] (10 \$/m)                                                                                | $5 credit    | $60 usage             |
+| [OpenCode Go](https://opencode.ai)                        | [Go](https://opencode.ai/go) (10 \$/m)                                                                      | -            | up-to $60 usage       |
 | [Cline Pass](https://cline.bot/cline-pass)                | 10 \$/m                                                                                                     | 50% discount | -                     |
 | [GMICloud](https://www.gmicloud.ai)                       | [Lite](https://www.gmicloud.ai/en/blog/kimi-k3-is-day-0-coming-to-gmi-and-its-in-our-coding-plan) (10 \$/m) |              |                       |
 | [Featherless](https://featherless.ai)                     | [Basic](https://featherless.ai/#pricing) (10 \$/m)                                                          | -            | up-to 15B models      |
@@ -90,7 +90,7 @@ sorted by minimal plan price.
 | [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    | ?            | $20 value             |
 | [APIClaw](https://apiclaw.biz)                            | [Plus](https://apiclaw.biz/#pricing) (19 \$/m)                                                              | 50 req free  | 500 req / day         |
 | [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                                                               | -            | <= 100 prompts / 5-hr |
-| [Claude Code][claude-ref]                                 | [Pro][claude-ref] (20 \$/m)                                                                                 | 1-week free  | <= 30 prompts / 5-hr  |
+| [Claude Code](https://claude.ai)                          | [Pro](https://claude.ai) (20 \$/m)                                                                          | 1-week free  | <= 30 prompts / 5-hr  |
 | [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m)                                               | Free plan    | <= 100 prompts / 5-hr |
 | [Nous Portal](https://portal.nousresearch.com)            | [PLUS](https://portal.nousresearch.com) (20 \$/m)                                                           | -            | $22 usage             |
 | [Ollama Cloud](https://ollama.com/pricing)                | [Pro](https://ollama.com/pricing) (20 \$/m)                                                                 | -            | -                     |
@@ -252,7 +252,7 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | [Amazon Q](https://aws.amazon.com/q/developer)            | [Pro](https://aws.amazon.com/q/developer/pricing) (19 \$/m)                                  | Subscription         | -                     | No        | Yes       | No          |
 | [Kimi Code](https://www.kimi.com/code)                    | [Moderato](https://www.kimi.com/membership/pricing) (19 \$/m) or [see providers](#providers) | Subscription         | ?                     | -         | Yes       | No          |
 | [Cursor](https://cursor.com/cli)                          | [Pro](https://www.cursor.com/pricing) (20 \$/m)                                              | Tokens               | 200 req / month       | 2-week    | Yes       | No          |
-| [Claude Code][claude-ref]                                 | BYOK or [Pro][claude-ref] (20 \$/m) or [see providers](#providers)                           | Tokens, Subscription | =< 220K tokens / 5-hr | No        | No        | No          |
+| [Claude Code](https://claude.ai)                          | [Pro](https://claude.ai) (20 \$/m) or [see providers](#providers)                            | Tokens, Subscription | =< 220K tokens / 5-hr | No        | No        | No          |
 | [Droid](https://factory.ai)                               | BYOK or [Pro](https://factory.ai/pricing) (20 \$/m) or [see providers](#providers)           | Tokens               | 20M tokens / month    | No        | Yes       | No          |
 | [Qoder][qoder-ref]                                        | Pro (20 \$/m)                                                                                | Subscription         | -                     | Beta      | Beta      | No          |
 | [Rovo Dev](https://www.atlassian.com/software/rovo-dev)   | Standard (20 \$/m)                                                                           | Tokens               | <= 2,000 credits      | 30-days   | No        | No          |
@@ -315,18 +315,16 @@ MIT
 
 [alibaba-cloud-ref]: https://www.alibabacloud.com/campaign/ai-scene-coding?referral_code=A924PN
 [alibaba-token-ref]: https://www.alibabacloud.com/en/campaign/ai-landing-page-token?referral_code=A924PN
-[claude-ref]: https://claude.ai/referral/W6Wu0V7qvA
 [freebuff-ref]: https://freebuff.com/?ref=ref-f7917691-dbc6-42ff-bf6d-20cad49ba057
 [minimax-ref]: https://platform.minimax.io/subscribe/coding-plan?code=IqX9pibzpl&source=link
 [nano-gpt-ref]: https://nano-gpt.com/invite/CLnWMCfV
-[opencode-ref]: https://opencode.ai/go?ref=JS7NVJ7BY1
 [proxy-aerolink-ref]: https://aerolink.lat/register?ref=ITZKKUI
 [proxy-cavoti-ref]: https://cavoti.com/register?aff=K6XBNP53XWY9
 [proxy-ccapi-ref]: https://ccapi.us/register?aff=wnpz7zef
 [proxy-claudeapi-ref]: https://console.claudeapi.com/register?aff=Lnhb
 [proxy-code0-ref]: https://console.code0.ai/register?aff=WkDx
 [proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
-[qoder-ref]: https://qoder.com/referral?referral_code=deA28K0MKKQolBB7qYtXRLhGGK5hK5c0
+[qoder-ref]: https://qoder.com/activities?referral_code=TjQyb4rYFJ92tZNDn4ZrELfNcOryH2jE
 [replit-ref]: https://replit.com/refer/dalisoft
 [synthetic-ref]: https://synthetic.new/?referral=GemOVdmcB7SNMQG
 [xiaomi-ref]: https://platform.xiaomimimo.com?ref=UZWW8Z
