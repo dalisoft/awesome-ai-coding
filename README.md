@@ -300,7 +300,6 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | show-your-work           | <https://github.com/iamumeransari/claude-show-your-work> |
 | sillage                  | <https://github.com/MarlBurroW/sillage>                  |
 | subagent-tuner           | <https://github.com/Kruhlikau/subagent-tuner>            |
-| Tavero                   | <https://github.com/baccaraaa/tavero>                    |
 | toldya                   | <https://github.com/singhlabsdev/toldya>                 |
 | Yap MCP                  | <https://github.com/founden-bot/yap-mcp>                 |
 | yylo-benchmark           | <https://github.com/yylo-dev/yylo-benchmark>             |
