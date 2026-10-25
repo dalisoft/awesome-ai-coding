@@ -6,7 +6,7 @@ name: PR Spam Guard
 # Source: https://github.com/Zijian-Ni/awesome-ai-agents-2026
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, reopened]
 
 permissions:
