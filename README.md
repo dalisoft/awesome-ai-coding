@@ -287,7 +287,6 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | ax                       | <https://github.com/Necmttn/ax>                          |
 | CodeOtter                | <https://github.com/dharmeshgurnani/CodeOtter>           |
 | codex-profiles           | <https://github.com/Ducksss/codex-profiles>              |
-| contexttax               | <https://github.com/henrikdukefoss/contexttax>           |
 | coven                    | <https://github.com/OpenCoven/coven>                     |
 | deed.page                | <https://github.com/f-o-x11/deed-page-skill>             |
 | Frink                    | <https://github.com/benord-labs/frink>                   |
