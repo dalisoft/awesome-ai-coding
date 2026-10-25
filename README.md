@@ -279,7 +279,6 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 
 | Name                     | Link                                                     |
 | ------------------------ | -------------------------------------------------------- |
-| agent-doctrine           | <https://github.com/sisig-ai/agent-doctrine>             |
 | agent-manager            | <https://github.com/YoanWai/agent-manager>               |
 | agenttrace               | <https://github.com/luoyuctl/agenttrace>                 |
 | Aident Loadout           | <https://aident.ai>                                      |
@@ -290,8 +289,6 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | Frink                    | <https://github.com/benord-labs/frink>                   |
 | Helicon                  | <https://github.com/HarjjotSinghh/helicon>               |
 | mcp-ai-slop-checker      | <https://github.com/parweb/mcp-ai-slop-checker>          |
-| MergeJudge               | <https://mergejudge.si>                                  |
-| nibbl                    | <https://github.com/nuromirzak/nibbl>                    |
 | orcareplay               | <https://github.com/Continuum-AI-Corp/OrcaReplay>        |
 | second-brain-starter-kit | <https://github.com/tonydzi/second-brain-starter-kit>    |
 | show-your-work           | <https://github.com/iamumeransari/claude-show-your-work> |
