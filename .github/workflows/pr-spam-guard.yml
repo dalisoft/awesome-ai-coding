@@ -20,6 +20,6 @@ jobs:
         uses: actions/github-script@v9.0.0
         with:
           script: |
-            const { default: prSpamGuard } = await import('${{ github.workspace }}/.github/scripts/pr-spam-guard')
+            const { default: prSpamGuard } = await import('${{ github.workspace }}/.github/scripts/pr-spam-guard.js')
 
             await prSpamGuard({github, context, core})
