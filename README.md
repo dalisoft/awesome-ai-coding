@@ -307,7 +307,6 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 
 ## Resources
 
-- <https://github.com/elirankotzero/ai-coding-rules-sampler>
 - <https://github.com/ianwieds/awesome-ai-agents>
 - <https://github.com/inmve/free-ai-coding>
 - <https://whichaiplan.dev>
