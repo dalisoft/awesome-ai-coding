@@ -3,7 +3,7 @@
 export default async function prSpamGuard({ github, core, context }) {
   if (!context?.payload?.pull_request) {
     throw new Error(
-      "The workflow was configured incorrectly. Please check workflow",
+      "The workflow was configured incorrectly. Please check workflow"
     );
   }
 
@@ -15,7 +15,7 @@ export default async function prSpamGuard({ github, core, context }) {
     username: author,
   });
   const accountAgeDays = Math.floor(
-    (Date.now() - new Date(user.created_at).valueOf()) / 86400000,
+    (Date.now() - new Date(user.created_at).valueOf()) / 86400000
   );
 
   // 2. Search for the same author's open + closed PRs across GitHub
@@ -51,11 +51,11 @@ export default async function prSpamGuard({ github, core, context }) {
   if (user.followers === 0) flags.push(`⚠️ Account has **0 followers**`);
   if (recentPRs.length > 8)
     flags.push(
-      `⚠️ Submitter has **${recentPRs.length} PRs in the last 14 days**`,
+      `⚠️ Submitter has **${recentPRs.length} PRs in the last 14 days**`
     );
   if (titleHits.data.items.length > 3)
     flags.push(
-      `🚨 Identical title submitted to **${titleHits.data.items.length} repos** by the same author`,
+      `🚨 Identical title submitted to **${titleHits.data.items.length} repos** by the same author`
     );
 
   const body = [
