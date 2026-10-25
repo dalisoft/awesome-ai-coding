@@ -285,12 +285,10 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | aisw                     | <https://github.com/burakdede/aisw>                      |
 | ax                       | <https://github.com/Necmttn/ax>                          |
 | codex-profiles           | <https://github.com/Ducksss/codex-profiles>              |
-| contexttax               | <https://github.com/henrikdukefoss/contexttax>           |
 | coven                    | <https://github.com/OpenCoven/coven>                     |
 | Frink                    | <https://github.com/benord-labs/frink>                   |
 | Helicon                  | <https://github.com/HarjjotSinghh/helicon>               |
 | mcp-ai-slop-checker      | <https://github.com/parweb/mcp-ai-slop-checker>          |
-| nibbl                    | <https://github.com/nuromirzak/nibbl>                    |
 | orcareplay               | <https://github.com/Continuum-AI-Corp/OrcaReplay>        |
 | second-brain-starter-kit | <https://github.com/tonydzi/second-brain-starter-kit>    |
 | show-your-work           | <https://github.com/iamumeransari/claude-show-your-work> |
