@@ -58,6 +58,9 @@ export default async function prSpamGuard({ github, core, context }) {
       `🚨 Identical title submitted to **${titleHits.data.items.length} repos** by the same author`
     );
 
+  // Very new account blasting PRs: close automatically (maintainers can reopen)
+  const shouldClose = accountAgeDays <= 30 && recentPRs.length >= 30;
+
   const body = [
     `### 🛂 PR Spam Guard report`,
     ``,
@@ -67,19 +70,45 @@ export default async function prSpamGuard({ github, core, context }) {
       ? `✅ No automated red flags detected.`
       : `**Automated red flags:**\n${flags.map((f) => `- ${f}`).join("\n")}`,
     ``,
-    `_This is an advisory. Maintainer judgement is required to merge or close._`,
+    shouldClose
+      ? `⛔ This PR was **closed automatically**: the account is ${accountAgeDays} days old with ${recentPRs.length} PRs in the last 14 days. A maintainer can reopen it if this was a mistake.`
+      : `_This is an advisory. Maintainer judgement is required to merge or close._`,
   ]
     .filter(Boolean)
     .join("\n");
 
-  await github.rest.issues.createComment({
-    body,
-    issue_number: context.payload.pull_request.number,
-    owner: context.repo.owner,
-    repo: context.repo.repo,
-  });
+  await core.summary.addRaw(body, true).write();
 
-  if (accountAgeDays <= 30 && recentPRs.length >= 30) {
-    /* TODO: Close a PR if such conditions are met */
+  try {
+    await github.rest.issues.createComment({
+      body,
+      issue_number: context.payload.pull_request.number,
+      owner: context.repo.owner,
+      repo: context.repo.repo,
+    });
+  } catch (error) {
+    // Fork PRs get a read-only GITHUB_TOKEN, so commenting is refused (403)
+    if (/** @type {{ status?: number }} */ (error).status !== 403) throw error;
+    core.warning(
+      "Could not comment on the PR (read-only token); report is in the job summary."
+    );
+  }
+
+  if (shouldClose) {
+    try {
+      await github.rest.issues.update({
+        issue_number: context.payload.pull_request.number,
+        owner: context.repo.owner,
+        repo: context.repo.repo,
+        state: "closed",
+        state_reason: "not_planned",
+      });
+    } catch (error) {
+      if (/** @type {{ status?: number }} */ (error).status !== 403)
+        throw error;
+      core.warning(
+        "Could not close the PR (read-only token); close it manually."
+      );
+    }
   }
 }
