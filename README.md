@@ -298,7 +298,6 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | second-brain-starter-kit | <https://github.com/tonydzi/second-brain-starter-kit>    |
 | show-your-work           | <https://github.com/iamumeransari/claude-show-your-work> |
 | sillage                  | <https://github.com/MarlBurroW/sillage>                  |
-| Sqwakie                  | <https://sqwakie.si>                                     |
 | subagent-tuner           | <https://github.com/Kruhlikau/subagent-tuner>            |
 | toldya                   | <https://github.com/singhlabsdev/toldya>                 |
 | Yap MCP                  | <https://github.com/founden-bot/yap-mcp>                 |
