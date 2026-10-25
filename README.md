@@ -40,6 +40,12 @@ sorted by minimal plan price.
 - Agents
   - [AI Agents](#ai-agents)
   - [Coding Agents](#coding-agents)
+- [Orchestrators](#orchestrators)
+- [Tools](#tools)
+
+### Misc
+
+- [Resources](#resources)
 
 ---
 
@@ -51,7 +57,7 @@ sorted by minimal plan price.
 > Please check your country and company legal terms before using these proxy services
 
 | Name                                         | Minimal plan                                  | Trial | Usage       |
-| -------------------------------------------- | --------------------------------------------- | ----- | ----------- |
+|----------------------------------------------|-----------------------------------------------|-------|-------------|
 | [Cavoti][proxy-cavoti-ref]                   | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
 | [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
 | [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
@@ -66,7 +72,7 @@ sorted by minimal plan price.
 ### Subscriptions
 
 | Name                                                      | Minimal plan                                                                                                | Trial        | Usage                 |
-| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------ | --------------------- |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------|-----------------------|
 | [Xiaomi Token Plan][xiaomi-ref]                           | [Lite][xiaomi-ref] (6 \$/m)                                                                                 | 12% discount | 4B tokens             |
 | [Alibaba Token Plan][alibaba-token-ref]                   | [Lite][alibaba-token-ref] (8 \$/m)                                                                          | 2$ off       | -                     |
 | [NanoGPT][nano-gpt-ref]                                   | [Pro][nano-gpt-ref] (8 \$/m)                                                                                | -            | -                     |
@@ -98,7 +104,7 @@ sorted by minimal plan price.
 This method known as: Auto-switch, Auto Router
 
 | Name                                                                | Fee          | Trial | Tied to                     |
-| ------------------------------------------------------------------- | ------------ | ----- | --------------------------- |
+|---------------------------------------------------------------------|--------------|-------|-----------------------------|
 | [BTL Runtime](https://runtime.badtheorylabs.com)                    | 4%           | $5    | -                           |
 | [Factory Router](https://factory.ai/news/factory-router)            | 0%           | -     | [Droid](https://factory.ai) |
 | [Kilo Auto Efficient](https://kilo.ai/auto-model)                   | 0%           | -     | -                           |
@@ -115,7 +121,7 @@ How it works: it asks Advisor (smart) model for hard question or planning
 while executes with Build (cheap) model.
 
 | Name                                                         | Fee          | Trial | Tied to                                   |
-| ------------------------------------------------------------ | ------------ | ----- | ----------------------------------------- |
+|--------------------------------------------------------------|--------------|-------|-------------------------------------------|
 | [Anthropic Advisor](https://code.claude.com/docs/en/advisor) | Model fee    | -     | [Claude API](https://platform.claude.com) |
 | [Devin Fusion](https://cognition.com/blog/devin-fusion)      | 0%           | -     | [Devin CLI](https://devin.ai/cli)         |
 | [OpenRouter Fusion](https://openrouter.ai/openrouter/fusion) | Platform Fee | -     | -                                         |
@@ -128,7 +134,7 @@ See [AI providers](https://github.com/dalisoft/awesome-hosting#llminference-api)
 ### Subscription plan trackers
 
 | Name             | Link                                                        |
-| ---------------- | ----------------------------------------------------------- |
+|------------------|-------------------------------------------------------------|
 | DevForth         | <https://devforth.io/agents-for-code/?sortby=monthly-value> |
 | Real API Pricing | <https://realapipricing.com/#lang=en&view=allowance>        |
 | WokeyAI          | <https://wokey.ai/claude-usage-limits>                      |
@@ -140,7 +146,7 @@ See [AI providers](https://github.com/dalisoft/awesome-hosting#llminference-api)
 List of AI-powered IDEs and code editors.
 
 | Name                                       | Minimal plan                                    | Usage        | Trial  | Free plan | Open Source |
-| ------------------------------------------ | ----------------------------------------------- | ------------ | ------ | --------- | ----------- |
+|--------------------------------------------|-------------------------------------------------|--------------|--------|-----------|-------------|
 | [BuilderStudio](https://builderstudio.dev) | BYOK                                            | Tokens       | 7-days | Yes       | No          |
 | [FlexPilot AI](https://flexpilot.ai)       | BYOK                                            | Tokens       | -      | -         | Yes         |
 | [humanlayer](https://www.humanlayer.dev)   | BYOK                                            | Tokens       | -      | -         | Yes         |
@@ -161,7 +167,7 @@ List of AI-powered IDEs and code editors.
 List of AI-powered coding plugins and extensions. See [feature matrix](./FEATURE_MATRIX.md#extensions).
 
 | Name                                                  | Minimal plan                                                                              | Usage                | Trial     | Free plan | Open Source |
-| ----------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------- | --------- | --------- | ----------- |
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------|----------------------|-----------|-----------|-------------|
 | [Cline](https://github.com/cline/cline)               | BYOK or [see providers](#providers)                                                       | Tokens               | -         | -         | Yes         |
 | [Kilo-Code](https://kilo.ai)                          | BYOK or [see providers](#providers)                                                       | Tokens               | $2 credit | -         | Yes         |
 | [Roo-Code](https://github.com/RooVetGit/Roo-Code)     | BYOK or [see providers](#providers)                                                       | Tokens               | -         | -         | Yes         |
@@ -182,7 +188,7 @@ List of AI-powered coding plugins and extensions. See [feature matrix](./FEATURE
 List of AI-powered cloud-based developer tools.
 
 | Name                                        | Minimal plan                                             | Trial         | Free plan | Open Source | Stack      |
-| ------------------------------------------- | -------------------------------------------------------- | ------------- | --------- | ----------- | ---------- |
+|---------------------------------------------|----------------------------------------------------------|---------------|-----------|-------------|------------|
 | [Firebase Studio](https://firebase.studio/) | -                                                        | No            | Yes       | No          | Full       |
 | [Bolt.diy](https://bolt.diy)                | BYOK                                                     | -             | -         | No          | Full-stack |
 | [Softgen](https://softgen.ai)               | BYOK with [Annual](https://softgen.ai/pricing) (33 \$/y) | No            | No        | No          | Full-stack |
@@ -206,13 +212,13 @@ List of AI-powered cloud-based developer tools.
 ## AI Agents
 
 | Name                                                | Minimal plan                                                 | Usage                | Limits           | Trial | Free plan | Open Source |
-| --------------------------------------------------- | ------------------------------------------------------------ | -------------------- | ---------------- | ----- | --------- | ----------- |
+|-----------------------------------------------------|--------------------------------------------------------------|----------------------|------------------|-------|-----------|-------------|
 | [Antigravity](https://antigravity.google)           | [Pro](https://antigravity.google/pricing) (20 \$/m)          | Tokens, Subscription | =< 150 req / day | No    | Yes       | Yes         |
 | [Atomic Agent](https://atomicagent.io)              | BYOK                                                         | Tokens               | -                | -     | Yes       | Yes         |
 | [Codex](https://github.com/openai/codex)            | BYOK or [Plus](https://openai.com/chatgpt/pricing) (20 \$/m) | Tokens, Subscription | 80 req / 3-hour  | No    | No        | Yes         |
 | [Hermes](https://hermes-agent.nousresearch.com)     | BYOK                                                         | Tokens               | -                | -     | -         | Yes         |
 | [OpenCode Desktop](https://github.com/sst/opencode) | [Go](https://opencode.ai/go) or [see providers](#providers)  | Tokens, Subscription | -                | -     | Yes       | Yes         |
-| [ZCode](https://zcode.z.ai/en)                      | BYOK or [GLM Coding][z-ai-ref]                               | Tokens, Subscription | -                |       |           | Yes         |
+| [ZCode](https://zcode.z.ai/en)                      | BYOK or [GLM Coding][z-ai-ref]                               | Tokens, Subscription | -                |       | No        | Yes         |
 
 ---
 
@@ -221,7 +227,7 @@ List of AI-powered cloud-based developer tools.
 List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATURE_MATRIX.md#cli-agents).
 
 | Name                                                      | Minimal plan                                                                                 | Usage                | Limits                | Trial     | Free plan | Open Source |
-| --------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------- | --------------------- | --------- | --------- | ----------- |
+|-----------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------|-----------------------|-----------|-----------|-------------|
 | [Aider](https://aider.chat)                               | BYOK                                                                                         | Tokens               | -                     | -         | -         | Yes         |
 | [amp](https://ampcode.com)                                | [Pricing](https://ampcode.com/manual#pricing)                                                | Tokens               | -                     | No        | Yes       | No          |
 | [Cline](https://docs.cline.bot/cline-cli/overview)        | BYOK or [see providers](#providers)                                                          | Tokens               | -                     | -         | -         | Yes         |
@@ -257,14 +263,24 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 
 ## Orchestrators
 
--
+| Name                                           | Type | Minimal plan | Usage    | Limits | Trial | Free plan | Open Source |
+|------------------------------------------------|------|--------------|----------|--------|-------|-----------|-------------|
+| [agent-manager](https://agent-manager.dev)     | TUI  | -            | Your sub | -      | -     | -         | Yes         |
+| [bb](https://getbb.app)                        | GUI  | -            | Your sub | -      | -     | -         | Yes         |
+| [Conductor](https://conductor.build)           | GUI  | -            | Your sub | -      | -     | -         | No          |
+| [herdr](https://herdr.dev)                     | TUI  | -            | Your sub | -      | -     | -         | Yes         |
+| [Orca](https://onorca.dev)                     | GUI  | -            | Your sub | -      | -     | -         | Yes         |
+| [Paseo](https://paseo.sh)                      | GUI  | -            | Your sub | -      | -     | -         | Yes         |
+| [super.engineering](https://super.engineering) | GUI  | -            | Your sub | -      | -     | -         | No          |
+| [superset](https://superset.sh)                | GUI  | -            | Your sub | -      | -     | -         | Yes         |
+| [T3 Code](https://t3.codes)                    | GUI  | -            | Your sub | -      | -     | -         | Yes         |
 
 ---
 
 ## Tools
 
 | Name                     | Link                                                     |
-| ------------------------ | -------------------------------------------------------- |
+|--------------------------|----------------------------------------------------------|
 | agent-manager            | <https://github.com/YoanWai/agent-manager>               |
 | agenttrace               | <https://github.com/luoyuctl/agenttrace>                 |
 | Aident Loadout           | <https://aident.ai>                                      |
