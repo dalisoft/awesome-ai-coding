@@ -285,7 +285,6 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | aisw                     | <https://github.com/burakdede/aisw>                      |
 | ax                       | <https://github.com/Necmttn/ax>                          |
 | codex-profiles           | <https://github.com/Ducksss/codex-profiles>              |
-| contexttax               | <https://github.com/henrikdukefoss/contexttax>           |
 | coven                    | <https://github.com/OpenCoven/coven>                     |
 | Frink                    | <https://github.com/benord-labs/frink>                   |
 | Helicon                  | <https://github.com/HarjjotSinghh/helicon>               |
