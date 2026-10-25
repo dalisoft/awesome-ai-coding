@@ -1,0 +1,25 @@
+name: PR Spam Guard
+
+# Surfaces parallel-blast PR patterns to maintainers as a comment on every
+# incoming pull request. Does not auto-close — judgment stays with humans.
+# Source: https://github.com/Zijian-Ni/awesome-ai-agents-2026
+
+on:
+  pull_request:
+    types: [opened, reopened]
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Audit submitter
+        uses: actions/github-script@v9.0.0
+        with:
+          script: |
+            const { default: prSpamGuard } = await import('${{ github.workspace }}/.github/scripts/pr-spam-guard')
+
+            await prSpamGuard({github, context, core})
