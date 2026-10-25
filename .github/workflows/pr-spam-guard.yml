@@ -13,6 +13,7 @@ jobs:
   pr_spam_audit:
     name: PR Spam Audit
     runs-on: ubuntu-latest
+    if: github.event.pull_request.user.login != 'dalisoft' && github.event.pull_request.user.login != 'dependabot[bot]'
     steps:
       - uses: actions/checkout@v7.0.1
         with:
