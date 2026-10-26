@@ -90,10 +90,10 @@ sorted by minimal plan price.
 | [Standard Compute](https://standardcompute.com)           | [Starter](https://standardcompute.com/pricing) (19 \$/m)                                                    | ?            | $20 value             |
 | [APIClaw](https://apiclaw.biz)                            | [Plus](https://apiclaw.biz/#pricing) (19 \$/m)                                                              | 50 req free  | 500 req / day         |
 | [ChatGPT Codex](https://chatgpt.com)                      | [Plus](https://chatgpt.com/pricing) (20 \$/m)                                                               | -            | <= 100 prompts / 5-hr |
-| [Claude Code](https://claude.ai)                          | [Pro](https://claude.ai) (20 \$/m)                                                                          | 1-week free  | <= 30 prompts / 5-hr  |
+| [Claude Code](https://claude.ai)                          | [Pro](https://claude.ai) (20 \$/m)                                                                          | -            | <= 30 prompts / 5-hr  |
 | [Google AI](https://one.google.com/about/google-ai-plans) | [Pro](https://one.google.com/about/google-ai-plans) (20 \$/m)                                               | Free plan    | <= 100 prompts / 5-hr |
 | [Nous Portal](https://portal.nousresearch.com)            | [PLUS](https://portal.nousresearch.com) (20 \$/m)                                                           | -            | $22 usage             |
-| [Ollama Cloud](https://ollama.com/pricing)                | [Pro](https://ollama.com/pricing) (20 \$/m)                                                                 | -            | -                     |
+| [Ollama Cloud](https://ollama.com/pricing)                | [Pro](https://ollama.com/pricing) (20 \$/m)                                                                 | -            | $60 usage             |
 | [synthetic][synthetic-ref]                                | [Standard][synthetic-ref] (20 \$/m)                                                                         | -            | 135 msg / 5-hr        |
 | [Cerebras Code](https://www.cerebras.ai/code) ⛔️          | [Pro](https://www.cerebras.ai/code) (50 \$/m)                                                               | -            | 24 M. Tokens / day    |
 | [Alibaba AI Coding Plan][alibaba-cloud-ref]               | [Pro][alibaba-cloud-ref] (50 \$/m)                                                                          | -            | <= 90,000 req / month |
