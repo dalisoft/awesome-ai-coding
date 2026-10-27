@@ -281,6 +281,7 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 
 | Name                     | Link                                                     |
 |--------------------------|----------------------------------------------------------|
+| Agent Standup            | <https://github.com/Atoll92/agent-standup>               |
 | agent-manager            | <https://github.com/YoanWai/agent-manager>               |
 | agenttrace               | <https://github.com/luoyuctl/agenttrace>                 |
 | Aident Loadout           | <https://aident.ai>                                      |
