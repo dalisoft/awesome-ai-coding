@@ -290,6 +290,7 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | ax                       | <https://github.com/Necmttn/ax>                          |
 | codex-profiles           | <https://github.com/Ducksss/codex-profiles>              |
 | coven                    | <https://github.com/OpenCoven/coven>                     |
+| DESIGN:OS                | <https://github.com/jangtrinh/design-os>                 |
 | Frink                    | <https://github.com/benord-labs/frink>                   |
 | Helicon                  | <https://github.com/HarjjotSinghh/helicon>               |
 | mcp-ai-slop-checker      | <https://github.com/parweb/mcp-ai-slop-checker>          |
