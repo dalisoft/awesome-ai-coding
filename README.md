@@ -199,9 +199,9 @@ List of AI-powered cloud-based developer tools.
 | [CodeParrot](https://codeparrot.ai)         | [Pro](https://codeparrot.ai/pricing) (19 \$/m)           | 2-week        | No        | No          | Frontend   |
 | [Co](https://www.co.dev)                    | [Pro](https://www.co.dev/pricing) (19 \$/m)              | No            | Yes       | No          | Full-stack |
 | [v0](https://v0.app)                        | [Premium](https://v0.app/pricing) (20 \$/m)              | No            | Yes       | No          | Frontend   |
-| [WeInc](https://we.inc)                     | [Starter](https://we.inc/pricing) (20 \$/m)              | No            | Yes       | No          | Full-stack |
 | [VibeKit](https://vibekit.bot)              | BYOK or [Builder](https://vibekit.bot/pricing) (20 \$/m) | No            | Yes       | No          | Full-stack |
 | [replit Agent][replit-ref]                  | Pro (20 \$/m)                                            | No            | Yes       | No          | Full-stack |
+| [WeInc](https://we.inc)                     | [Starter](https://we.inc/pricing) (20 \$/m)              | No            | Yes       | No          | Full-stack |
 | [Wegic](https://wegic.ai)                   | [Starter](https://wegic.ai/pricing) (24 \$/m)            | No            | No        | No          | Frontend   |
 | [Lovable](https://lovable.dev)              | [Pro](https://lovable.dev/pricing) (25 \$/m)             | No            | Yes       | No          | Frontend   |
 | [Bolt.new](https://bolt.new)                | [Pro](https://bolt.new/pricing) (25 \$/m)                | No            | Yes       | No          | Full-stack |
