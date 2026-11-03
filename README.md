@@ -62,6 +62,7 @@ sorted by minimal plan price.
 | [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
 | [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
 | [ccapi][proxy-ccapi-ref]                     | [Pricing][proxy-cavoti-ref] (<= 93% off)      | -     | -           |
+| [Code By AI][proxy-codebyai-ref]             | [Pricing][proxy-codebyai-price] (<= 90% off)  | -     | -           |
 | [CCode](https://www.ccode.dev)               | [Pricing](https://www.ccode.dev) (<= 88% off) | -     | -           |
 | [Packy][proxy-packy-ref]                     | [Pricing][proxy-packy-ref] (<= 71% off)       | -     | -           |
 | [Code0][proxy-code0-ref]                     | [Pricing][proxy-code0-ref] (<= 65% off)       | -     | -           |
@@ -327,6 +328,8 @@ MIT
 [proxy-ccapi-ref]: https://ccapi.us/register?aff=wnpz7zef
 [proxy-claudeapi-ref]: https://console.claudeapi.com/register?aff=Lnhb
 [proxy-code0-ref]: https://console.code0.ai/register?aff=WkDx
+[proxy-codebyai-ref]: https://www.codebyai.net
+[proxy-codebyai-price]: https://www.codebyai.net/pricing
 [proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
 [qoder-ref]: https://qoder.com/activities?referral_code=TjQyb4rYFJ92tZNDn4ZrELfNcOryH2jE
 [replit-ref]: https://replit.com/refer/dalisoft
