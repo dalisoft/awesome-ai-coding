@@ -61,6 +61,7 @@ sorted by minimal plan price.
 | [Cavoti][proxy-cavoti-ref] ❌                | [Pro][proxy-cavoti-ref] (0.50 \$/m)           | -     | $30 / month |
 | [AICodeMirror](https://www.aicodemirror.com) | [PRO](https://www.aicodemirror.com) (2 \$/m)  | -     | -           |
 | [aerolink][proxy-aerolink-ref]               | [Builder][proxy-aerolink-ref] (10 \$/m)       | -     | $140 / week |
+| [CodeI Lab][proxy-codeilab-ref]              | [Pricing][proxy-codeilab-ref] ($3/wk)         | -     | -           |
 | [ccapi][proxy-ccapi-ref]                     | [Pricing][proxy-cavoti-ref] (<= 93% off)      | -     | -           |
 | [Code By AI][proxy-codebyai-ref]             | [Pricing][proxy-codebyai-price] (<= 90% off)  | -     | -           |
 | [CCode](https://www.ccode.dev)               | [Pricing](https://www.ccode.dev) (<= 88% off) | -     | -           |
@@ -330,6 +331,7 @@ MIT
 [proxy-code0-ref]: https://console.code0.ai/register?aff=WkDx
 [proxy-codebyai-ref]: https://www.codebyai.net
 [proxy-codebyai-price]: https://www.codebyai.net/pricing
+[proxy-codeilab-ref]: https://www.codeilab.com
 [proxy-packy-ref]: https://www.packyapi.com/register?aff=Ihn8
 [qoder-ref]: https://qoder.com/activities?referral_code=TjQyb4rYFJ92tZNDn4ZrELfNcOryH2jE
 [replit-ref]: https://replit.com/refer/dalisoft
