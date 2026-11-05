@@ -69,6 +69,7 @@ sorted by minimal plan price.
 | [Code0][proxy-code0-ref]                     | [Pricing][proxy-code0-ref] (<= 65% off)       | -     | -           |
 | [ClaudeAPI][proxy-claudeapi-ref]             | [Pricing][proxy-claudeapi-ref] (<= 20% off)   | -     | -           |
 | [B AI](https://b.ai)                         | [Pricing](https://b.ai) (<= unknown)          | -     | -           |
+| [UberLLM](https://uberllm.dev)               | [Pricing](https://uberllm.dev/models)         | -     | -           |
 | [VisionCoder](https://coder.visioncoder.cn)  | -                                             | -     | -           |
 
 ### Subscriptions
