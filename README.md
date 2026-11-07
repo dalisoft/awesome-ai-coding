@@ -275,6 +275,7 @@ List of AI-powered command-line coding-agent tools. See [feature matrix](./FEATU
 | [Conductor](https://conductor.build)           | GUI  | -            | Your sub | -      | -     | -         | No          |
 | [herdr](https://herdr.dev)                     | TUI  | -            | Your sub | -      | -     | -         | Yes         |
 | [Orca](https://onorca.dev)                     | GUI  | -            | Your sub | -      | -     | -         | Yes         |
+| [Orchestrator](https://orchestrator.inc)       | GUI  | -            | Your sub | -      | -     | -         | Yes         |
 | [Paradev](https://paradev.com)                 | GUI  | -            | Your sub | -      | -     | -         | Yes         |
 | [Paseo](https://paseo.sh)                      | GUI  | -            | Your sub | -      | -     | -         | Yes         |
 | [super.engineering](https://super.engineering) | GUI  | -            | Your sub | -      | -     | -         | No          |
