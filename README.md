@@ -142,6 +142,7 @@ See [AI providers](https://github.com/dalisoft/awesome-hosting#llminference-api)
 | DevForth         | <https://devforth.io/agents-for-code/?sortby=monthly-value> |
 | Real API Pricing | <https://realapipricing.com/#lang=en&view=allowance>        |
 | WokeyAI          | <https://wokey.ai/claude-usage-limits>                      |
+| TokenMost        | <https://tokenmost.com/>                                    |
 
 ---
 
